@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Email,Product_Category,Purchase_Amount,Quantity,Order_Date,Payment_Method,Region
+0d63db07-8be7-4e3c-a118-f9110a81b102,Ryan Wyatt,cody34@example.net,Electronics,26.03,2,2024-10-28,Cash on Delivery,North Danielmouth
+6507716a-3d5a-4536-bac3-3e29d5b264a2,Courtney Burke,martinezamanda@example.org,Books,156.63,3,2024-09-29,Bank Transfer,Kellychester
+cc1b115e-c90a-4ef5-8491-906bf14b80d7,Jesus Garcia,cynthia18@example.com,Electronics,460.49,4,2023-12-16,Bank Transfer,Fisherside
+d4956b32-57f4-49e8-a271-8dfc9afdb88f,Pamela Parker,donnamejia@example.com,Health & Beauty,395.37,3,2024-10-03,PayPal,East William
+0ebfecf2-936b-4da0-86c0-578cfdd6c513,Sarah Taylor,martinkristina@example.org,Clothing,428.53,3,2023-11-25,PayPal,Port Cristianside
+d1e24ece-e8db-447b-a11e-4762a0339866,Jesse Young,calderondale@example.net,Books,436.74,4,2023-01-31,Cash on Delivery,Lake Jason
+c9375e6e-af4b-4966-b8fe-c29fbaf71d6c,George Taylor,mathisdanielle@example.net,Clothing,374.19,3,2023-05-28,Cash on Delivery,Hodgeview
+4315f460-b375-46f9-8060-ecca75b978f9,Michael Gonzalez,erik50@example.org,Books,497.07,3,2023-08-10,PayPal,Mosesside
+bb23cdc2-1748-45c7-acb9-61e4ebf5f095,Dana Jackson,michaelwilliams@example.net,Health & Beauty,116.95,3,2024-09-12,Credit Card,New Kellyborough
+f1dc26b8-9dff-4ef8-b387-ee9862e800f0,Kyle Crawford,martinezholly@example.org,Home & Kitchen,202.19,2,2024-05-16,Cash on Delivery,New Christopher
+cba5b831-9195-4406-ab80-5d105ac2f3b8,Michael Brown,hsharp@example.org,Clothing,279.34,5,2023-07-15,Credit Card,West Melissafurt
+cbad4bba-053c-4ca6-a4e7-16b2fa1f069a,Madeline Warren,roysean@example.com,Health & Beauty,222.93,4,2023-02-01,Credit Card,Bankschester
+0982f035-3bf9-42b9-871d-ff17e7c4dbad,Amy Atkinson,idavidson@example.net,Health & Beauty,218.12,5,2024-09-21,PayPal,Lake Robertfurt
+6b14b04d-9045-48c0-a321-6081a7afa94e,Jeremy Miller,pamela29@example.org,Home & Kitchen,491.55,1,2024-07-04,Cash on Delivery,Nelsonmouth
+42cc2308-1f05-4965-b13e-e3c8ee28e13b,Brian Johnson,katherine44@example.net,Health & Beauty,219.0,2,2023-03-27,Credit Card,East Deannastad
+cddd7548-d494-4081-9a1d-856ee18284cd,Jordan Matthews,johnwilson@example.com,Home & Kitchen,364.7,4,2024-03-10,Credit Card,Estradatown
+7c227246-1905-4044-b67a-e3230351296f,Kim Payne MD,lopezjohn@example.com,Electronics,403.45,5,2024-06-13,PayPal,Thomashaven
+87ab1801-c690-4521-9844-28ad168051f4,Clinton Herrera,scottgarcia@example.net,Health & Beauty,264.29,5,2023-09-23,Cash on Delivery,South Amanda
+0adf348e-04a8-417f-a1cd-3d55431b2956,Nicholas Jenkins,tweber@example.org,Books,172.83,4,2023-10-11,Cash on Delivery,Mackland
+f40ea588-7c66-4072-ab0e-9e6c6850f318,Nicole Clark,qgarcia@example.com,Clothing,93.22,2,2023-12-17,Credit Card,New Mary
+a8283213-b92d-47aa-865c-789b0c53d69d,Michelle Martin,veleztina@example.com,Books,188.63,5,2023-06-22,Bank Transfer,West Richard
+c5f5f2b7-d5d9-4274-92e7-44116fdc22d3,Mr. Adam Taylor,judithrodriguez@example.com,Health & Beauty,387.82,5,2024-08-05,Credit Card,New Robert
+281d56ab-da75-4496-b5d1-ee950da5081f,Ryan Prince,zacharyewing@example.net,Electronics,374.29,2,2024-01-14,PayPal,Danielsfurt
+35a204b1-b131-496b-b0b2-9a98cfc14bbd,Christopher Elliott,lloydangela@example.com,Health & Beauty,109.18,1,2025-01-07,PayPal,West Sharon
+736668f5-1d87-4c2f-a18f-0d9e1443d464,Nicole Jackson,brownjonathan@example.net,Home & Kitchen,481.42,4,2023-10-05,Bank Transfer,East Johnchester
+6cc8920d-70bf-4521-bd3e-5dbb0b3ef851,Samuel Tapia,brittany67@example.com,Clothing,193.67,1,2023-05-18,Cash on Delivery,South Brianshire
+3e8191d5-77aa-4509-a187-9a7200504902,Katie Carpenter,townsendmichael@example.com,Clothing,463.52,3,2023-06-01,Cash on Delivery,Angelicaport
+eef15257-3428-466a-a79e-71b3ba6bf180,Maria Lynch,abates@example.org,Health & Beauty,292.4,5,2024-05-13,Bank Transfer,Deleonland
+238f0bfe-a9d3-45c7-a534-d214fb410c56,Mary Johnson,jaymadden@example.org,Health & Beauty,267.83,3,2024-01-22,Bank Transfer,Wongshire
+636b1a1b-8cf3-452c-9c9d-41c220c77dfd,Stanley Fields,lshepard@example.org,Electronics,289.77,4,2024-12-19,Credit Card,South Alexisborough
+2b35091b-bf21-4361-937f-bfb9005ec0fb,Rebecca Ball,kenneth69@example.org,Health & Beauty,51.72,3,2024-09-28,Cash on Delivery,Mooreburgh
+55a66114-3fb5-477c-9161-8576c989c663,Kaitlyn Ray,christopher26@example.org,Health & Beauty,198.2,1,2024-06-01,PayPal,North Christopher
+4d47e5cf-a7b8-40b3-822e-d72c2df18ec0,Kimberly Johnson,hreed@example.com,Books,72.52,5,2023-04-10,Credit Card,East Thomasbury
+75f375b6-f036-44d5-915d-51cc625408e3,Russell Torres,gstafford@example.org,Electronics,440.3,1,2024-07-24,Bank Transfer,Port David
+4a4b2cc4-28e6-4a04-9b0b-dd79baa1a780,William Hatfield,maxwellelizabeth@example.net,Electronics,324.43,2,2024-06-12,PayPal,Port Amanda
+53f5b9ec-dad5-4bd6-a3a9-afe1ba91c89f,Pamela Buck,hbenton@example.com,Health & Beauty,50.52,5,2023-04-07,Cash on Delivery,Port Hannahberg
+f2b6d45f-49f9-4d6a-b045-b710722e8146,Margaret Thomas,ljones@example.org,Electronics,480.07,3,2024-05-12,Credit Card,Taylorview
+48b8021e-8006-4a71-9cde-786d18f2f90b,Donna Barrett,boydjohn@example.com,Electronics,463.74,2,2024-07-16,Credit Card,Colonmouth
+b07d3e5d-f6b8-4551-adc6-912d181b000b,Eric Dawson,carl30@example.org,Electronics,425.98,5,2023-12-01,Bank Transfer,Ramirezland
+99abcff5-8ab2-454f-92f8-ff04839effdd,Billy Dominguez,james64@example.net,Home & Kitchen,22.83,3,2023-09-15,Bank Transfer,Alyssachester
+2153b59d-5cb3-44d0-8d05-fe788660bfcc,Mr. Daniel Dennis,tylerdelgado@example.net,Books,494.81,3,2024-02-17,PayPal,North Brett
+6f3e59ac-2858-47e5-b9a0-07eee712f380,Julia Martin,singhashley@example.com,Clothing,189.54,2,2024-01-27,Cash on Delivery,Josephside
+61f77912-4309-4630-8049-328642648355,Ariana Harris,fperez@example.org,Electronics,242.32,1,2024-01-20,Bank Transfer,East Mary
+462349fe-2546-4c05-aa4d-f5dc58bd79ba,Marie Riddle,josephkristina@example.org,Electronics,48.56,4,2023-12-22,PayPal,New Claytonfurt
+b15d5ea2-b31b-4897-a7e1-1217247ed0c1,Whitney Garcia,uyoder@example.org,Clothing,453.67,4,2023-12-07,PayPal,Rosalesfort
+68ec4e33-f9cd-46a2-bf3b-67bd11317c5a,Kim Alvarez,turnerlevi@example.com,Clothing,57.15,3,2025-01-04,Bank Transfer,Deanmouth
+d62ccc9f-37e9-4459-b77d-08ede9351c82,Alicia Prince,deborah73@example.net,Clothing,43.04,4,2023-02-12,Bank Transfer,Alexmouth
+f4887aee-f60a-45e0-832c-0ef83995242e,Julie Schultz,dflynn@example.com,Health & Beauty,56.28,5,2024-10-09,Credit Card,Bryantstad
+6522eac6-212b-43bf-b688-2c3f63a4f9ea,Amy Harvey,ryanmallory@example.com,Electronics,24.37,2,2024-10-30,Bank Transfer,Michealview
+9a8d144b-4279-4fce-abbb-2b1c7bb90f0a,Gerald Walker,howard25@example.com,Home & Kitchen,243.75,3,2024-03-26,Cash on Delivery,Smithshire
+8be5b289-4c50-4f89-9327-6973d956f7ce,Wanda Sanchez,hollandchristina@example.net,Health & Beauty,391.67,4,2023-11-04,PayPal,West Michelle
+b77a13e7-1791-42d8-8362-6022e5561382,Natalie Hubbard,garciaalan@example.org,Books,167.92,1,2024-05-19,Bank Transfer,North Matthewshire
+0bd7601c-ac47-4c51-be2d-49bc08e69b4e,Nicholas Brown,rivaslaurie@example.org,Books,493.96,5,2023-10-24,PayPal,New Sean
+84cdc80a-d932-45b4-8baf-c881336a8f9e,Priscilla Duke,jameslowery@example.com,Health & Beauty,336.85,3,2024-09-29,Credit Card,Lake Amy
+53277a3a-d79a-4cf2-8e31-6e5642f974a5,Melissa Soto,staceywilliams@example.net,Electronics,166.34,1,2023-10-31,Cash on Delivery,Port Gregoryhaven
+42451f6e-594a-46a1-b8df-0e551154e58b,Gary Allen,jasonjohnson@example.org,Health & Beauty,58.09,5,2024-06-12,Credit Card,Annachester
+1fb67f9f-6a63-4651-9c81-32d0ede6c3b6,Aaron Cooper,rogersmary@example.net,Clothing,301.33,3,2023-06-30,Bank Transfer,West Michaelville
+b1abe3fb-1a25-4009-82cf-8468e523f7fe,Nicholas Frazier,estradahector@example.com,Clothing,358.19,5,2024-08-29,PayPal,South Joan
+04529c8a-f7c5-4c02-a7e0-2f9fd3835794,Alan Burns,andrewsronnie@example.com,Home & Kitchen,13.79,1,2024-04-21,Credit Card,Alyssamouth
+6b396516-6000-4aef-9205-2d785e458d63,Nicholas West,catherinescott@example.org,Electronics,51.14,1,2023-08-03,Cash on Delivery,Nathanmouth
+1fa95e4c-7f63-4f1f-a601-c31c33bb01f3,Patty Keller,claudiashaffer@example.org,Health & Beauty,367.65,2,2024-09-04,Cash on Delivery,Port Anthonyfort
+20fcdabc-f38d-4d37-8d17-08c88f9a74cf,Kristin Pierce,benjamin78@example.com,Clothing,457.52,5,2024-04-29,PayPal,Peckchester
+53c0746b-bda3-4406-9964-87aef3e8ceb1,Elizabeth Johnson DDS,lopezmaria@example.net,Books,280.99,4,2024-04-23,Cash on Delivery,East Jacquelineland
+7b754751-a4c9-4d69-a3bb-5347d7e24431,Gregory Calderon,jessicaroberts@example.net,Health & Beauty,91.66,5,2023-09-18,Cash on Delivery,Joefort
+512243ce-1886-4dbc-a893-23ccc8b9ca0a,Leslie Brooks,bberry@example.net,Health & Beauty,77.94,3,2024-06-08,Cash on Delivery,North Micheal
+c632225d-fea6-4f9e-9dd9-98395d7a8dce,Kari Lopez,russellsmith@example.net,Health & Beauty,263.3,4,2024-04-17,Cash on Delivery,Port Laurie
+be70de29-b853-49c0-801a-625c93d3ce4d,Nathan Kelly,murphydakota@example.net,Clothing,58.55,1,2023-04-17,Credit Card,Jillport
+aa8b1b1e-d928-4c36-9255-0db3b7dd02bd,Laura Watson,sarahcobb@example.org,Electronics,468.62,2,2024-07-21,Bank Transfer,Lake Christopherhaven
+f67bdeec-e5c6-4e25-b790-eade753f6eb2,Anita Miller,michaeleverett@example.net,Books,185.83,5,2024-01-23,Bank Transfer,Bestland
+c2e88cbb-67b6-4da7-8a04-410c2b8b0f03,Kevin Long,rjackson@example.net,Health & Beauty,396.28,3,2025-01-05,Bank Transfer,Gonzaleztown
+fdb30463-0c78-44fd-ad77-ffc2c628026f,Mr. James Adams DVM,fisherbeth@example.com,Electronics,315.41,2,2024-06-30,Cash on Delivery,Lake Kevin
+a6a98e6f-4896-46bc-95ef-0407b481ab10,Melody Oliver,pkeller@example.com,Health & Beauty,69.17,4,2024-01-11,Credit Card,Port Danielfort
+11558e71-d868-4952-b378-402b22c25944,Kimberly Garcia,yshields@example.org,Electronics,323.75,1,2023-11-19,Bank Transfer,Irwinton
+44a238f7-856a-47a4-92f2-719403abed9a,Melissa Robbins,kathleen78@example.com,Home & Kitchen,141.16,4,2024-05-21,Cash on Delivery,Danielleborough
+8f1fab93-ef85-4e3c-bc1e-da8f0acb022a,Makayla Howard,hoganleonard@example.net,Health & Beauty,408.05,2,2024-12-10,Cash on Delivery,New Johnchester
+b38210ab-1da1-4fca-8c7e-79e47a8d4318,Lori Wilson,wallaceholly@example.net,Home & Kitchen,317.52,1,2023-08-30,PayPal,West Tamaraside
+6b5af795-3405-4746-ac3b-5cff04b0896d,Christian Ford,briandixon@example.org,Home & Kitchen,168.23,3,2023-11-02,PayPal,East Tiffanyville
+dc0a90b1-02c7-4a55-989f-fdc140ae4950,Courtney Riley MD,shortaaron@example.org,Clothing,257.19,5,2024-01-13,PayPal,Xavierfort
+1c8a39a8-e4ae-4df3-bfc1-55ce6e4a69fd,Michael Cunningham,dustin19@example.com,Home & Kitchen,441.3,3,2023-04-22,PayPal,Port Christophermouth
+9d2ca72e-161b-4c3f-b35e-5840d84318c7,Joan Diaz,smartin@example.org,Books,204.79,4,2023-06-21,Bank Transfer,East David
+ef3f4c07-18e6-4237-9307-bdee2a0e1cbf,Vickie Miller,jordanjohn@example.com,Books,305.14,3,2023-06-12,Bank Transfer,Isaiahfurt
+de86f0b6-c487-4fb4-aeaa-2b2baad1a77a,Michael Garcia,latoya54@example.com,Electronics,413.1,5,2024-06-19,Bank Transfer,South Melanie
+04e727a9-f714-4caa-b8b9-ac7e97b10a19,Anne Smith,beckbrittany@example.net,Electronics,87.64,5,2023-05-30,Credit Card,Halehaven
+60e5301e-e4b0-4aec-bec4-7ac0750cdbeb,Emily Henry,catherinetran@example.net,Home & Kitchen,192.64,3,2024-06-11,Bank Transfer,South Patriciaville
+5c40a428-ab8e-4bde-ba7e-d1a36d97e41f,Michele Rocha,rosejohn@example.net,Health & Beauty,310.18,3,2023-06-16,PayPal,Vargaston
+62e277e5-6ece-4937-add2-a04d60f91ef7,Olivia Burns,michellejohnston@example.org,Books,314.3,4,2023-12-30,Cash on Delivery,Matthewfurt
+1f43dd51-3a1f-4e44-b277-0607bdc4b6c3,Kristina Patel,finleysusan@example.org,Books,76.59,5,2024-11-24,Cash on Delivery,New Christinastad
+f648d7e9-7ef3-4963-b38d-ccd4f433a9bf,Nicole Malone,lisa99@example.org,Clothing,358.77,1,2023-10-29,Cash on Delivery,Perezmouth
+2eceef72-2d91-40ac-8831-7c7af21ab796,David Reynolds,ystewart@example.com,Clothing,83.45,5,2023-07-03,Credit Card,West William
+a293cfaf-c067-4de5-bdd8-9a9502931ab0,Megan Johnson,joshuawood@example.com,Home & Kitchen,277.6,2,2024-02-17,Cash on Delivery,Port Alexanderview
+8071cd44-2ae5-459b-ac3c-88f221fd0491,Jennifer Case,jeffreymcgee@example.net,Books,261.12,2,2024-03-03,Cash on Delivery,Deanview
+e14dd75b-3507-48e5-a9bc-5cd82f7f9581,Wendy Wood,joseph65@example.org,Home & Kitchen,77.27,5,2023-09-14,Cash on Delivery,Blakemouth
+9e35dfb5-041c-4d5e-8f41-35cdaf2ec586,Tammy Burns,randy27@example.com,Books,440.1,4,2024-04-15,Credit Card,Williamsbury
+ba45d247-003a-4817-84f6-9b9101946c20,Billy Barber,duranroger@example.net,Home & Kitchen,70.19,5,2023-03-08,Bank Transfer,Louisshire
+3fd67080-e64b-4e10-ae0d-bc0d4019ae41,Gabriela Carrillo,robert50@example.net,Books,384.19,4,2024-03-31,Bank Transfer,Port Janetstad
+1b746dc5-d2d8-4af9-acd9-14626191f869,Anthony Hammond PhD,lewischristopher@example.org,Home & Kitchen,89.28,1,2024-11-21,Cash on Delivery,Vazquezchester
+6fa5ee6f-cd07-42da-aa98-c5c47d188708,Ashley Kennedy,ylewis@example.com,Books,185.46,5,2024-01-16,Bank Transfer,Lake Tracyville
+78e4d6f0-2c94-4111-a8fb-c7b095319cac,Deanna Maldonado,candacetaylor@example.com,Health & Beauty,151.35,2,2024-04-01,Cash on Delivery,North Natalie
+8dcf4591-4494-460f-adfd-e43757a75507,Crystal Wilson,angela71@example.org,Books,233.86,3,2023-03-25,Bank Transfer,Hernandezhaven
+b6efc5c2-cd27-4532-9e6d-4bf3a4b846f5,Heidi Jones,pittsjose@example.com,Home & Kitchen,43.74,4,2024-07-19,PayPal,Spenceview
+aaf3eb5d-6800-4cb7-b7f7-c88386bd9f07,Sharon Cohen,ymitchell@example.org,Health & Beauty,284.6,1,2023-09-28,PayPal,Johnshire
+63c0c8d8-871f-43a2-add7-cfa6ca8d1cc6,Laura Best,mmills@example.net,Electronics,412.52,1,2024-12-15,Bank Transfer,Lake Mariahville
+65c6ebd8-c502-490e-ae09-1cc550d6be8d,Hannah Serrano,michelle96@example.com,Books,200.9,4,2024-07-02,Cash on Delivery,Andersonchester
+49778031-740e-455a-a579-87eb4eaa8b99,Tracy Pace,adam62@example.net,Health & Beauty,375.55,2,2024-04-22,Cash on Delivery,Port Stacy
+a5dc4d9e-546f-4eb0-91cf-6d83acd7063a,Richard Weeks,yduncan@example.net,Home & Kitchen,148.81,4,2023-12-24,Bank Transfer,Johnsonstad
+d0e44cac-b63a-473d-be46-66a098165a17,Andrew Bryant,smithanthony@example.net,Health & Beauty,258.92,1,2023-07-11,Bank Transfer,North Matthewberg
+b1e97805-4111-464f-9812-de010672d4e4,Tiffany Cortez,ejones@example.org,Home & Kitchen,183.43,1,2024-08-29,Bank Transfer,New Matthewhaven
+393a0517-15b7-4115-9cd9-a47170100955,Juan Chang,timothy22@example.com,Clothing,152.4,4,2023-08-16,Cash on Delivery,Michaelfort
+afc084e9-b18a-46d3-85f0-4ce11a878ded,Allison Henry,grimestammy@example.org,Electronics,111.8,1,2024-06-05,Credit Card,East Cameronchester
+96e36536-82a9-4df9-8787-50d962239221,Matthew Evans,williamhamilton@example.com,Home & Kitchen,262.72,1,2023-06-03,Credit Card,Jeremyview
+d9149db1-4af1-4856-97cd-8d482405b81f,Andrew Klein,asaunders@example.com,Clothing,210.61,1,2023-08-13,PayPal,North Christopherburgh
+0f36be8b-0612-4768-99ce-d08ce594ffc9,Kayla Hernandez,wmcknight@example.org,Home & Kitchen,190.71,3,2023-07-12,PayPal,Bradleyhaven
+ac484dd3-ae8a-4431-98d7-ace5e84adc2a,Stephanie Watkins,sherihoffman@example.net,Clothing,212.3,4,2025-01-04,PayPal,Brandtview
+c484dbf6-442b-48b2-b86a-cdb40c466c01,Michele King,valenciasusan@example.com,Health & Beauty,196.83,5,2024-11-28,PayPal,Lake Davidshire
+56ea4ed0-0dca-49b0-b37e-d1c649cf9ede,Rebecca Carter,zmassey@example.net,Home & Kitchen,368.49,3,2023-02-26,Bank Transfer,Lake Jacksonland
+c891095f-21eb-4546-b89d-48c575b5f405,Danny Williams,amberthomas@example.net,Home & Kitchen,254.22,4,2023-07-08,Bank Transfer,Jennifermouth
+da1c79c3-ce79-4fe0-a0c4-fb13f5b8ddac,Danny Edwards,mhenderson@example.net,Clothing,342.56,2,2024-11-12,Cash on Delivery,Pierceville
+e475f094-13ed-447e-b64b-5c0ca6ef02ba,Gabriel Sanchez,lorilarson@example.com,Electronics,319.3,5,2024-03-08,Bank Transfer,Lucashaven
+8837ad55-3c98-4f88-a8a5-778aa0acd5a4,Bonnie Anderson,buchanancrystal@example.com,Health & Beauty,304.84,5,2023-04-06,Credit Card,Port Ashley
+20921a2f-c2f0-402f-81c6-efc78cf1dbb3,Jeffrey Henry,martinezthomas@example.com,Health & Beauty,29.06,4,2024-07-28,Cash on Delivery,Lake Michael
+d143f9bd-062d-4b81-bef1-d0c3924bb170,Jessica Gibson,michael10@example.com,Books,431.35,2,2024-04-03,Credit Card,North Mark
+9d9bcb5f-e476-4eb1-af0b-a6e6c90cc3a1,Ricardo Lopez,carpentertasha@example.org,Home & Kitchen,21.05,1,2023-07-04,Credit Card,Brianchester
+3ffe6a5c-3443-4af6-bc5f-ba31506c5a88,Jennifer Martinez,daviswilliam@example.org,Health & Beauty,106.08,5,2024-04-25,Bank Transfer,South Alyssatown
+a27c5bf3-026f-4d8c-a275-e9f00c0fb1a6,Andrea Jacobs,mckenziekathleen@example.org,Health & Beauty,257.19,3,2024-05-23,Cash on Delivery,West Ricky
+f72cc226-ace5-4197-a0d5-7669a78089ac,Dr. Tammy Crosby,mcphersonjames@example.net,Electronics,467.59,5,2024-09-11,Cash on Delivery,Darrenshire
+e037ea34-1827-45a7-98a6-050d3dea81c7,Christopher Thompson,jfisher@example.net,Electronics,280.91,2,2023-05-24,Bank Transfer,Hardyview
+36129636-28f0-4043-952e-3e275e2e4165,Jessica Morrow,lwu@example.org,Books,104.93,5,2024-06-25,Cash on Delivery,Lake Johnborough
+f5076063-53c3-4111-871a-cc61da45cd88,Cameron Lewis,franciscowright@example.org,Home & Kitchen,76.56,5,2024-11-12,PayPal,Juliebury
+58236576-214f-4b42-a8b7-5f233cf203e5,Charles Odonnell MD,ucollins@example.org,Home & Kitchen,442.34,1,2023-05-11,Cash on Delivery,Gordonfort
+d24a8fd0-15ea-447e-a29e-3e43555cac17,Madison Harris,david98@example.net,Electronics,60.49,3,2023-06-28,Cash on Delivery,Morrisonhaven
+469232db-59ca-48e0-8863-b0b489748010,Amanda Merritt,gadkins@example.com,Books,325.22,4,2024-01-05,Bank Transfer,Caseyport
+b61fde1f-6501-4034-a72b-30f0713d7b6f,Gabriel Flynn,hboyd@example.net,Health & Beauty,394.34,2,2023-08-22,Credit Card,Stacieside
+4e3d1625-58e3-4e2b-82c1-4f755b1773df,Anthony Rodgers,julie15@example.org,Clothing,14.17,3,2025-01-10,Cash on Delivery,Lake Benjamin
+0ec0ed13-0a10-497d-b39e-9d5570fcbec3,Christopher Lee,barrybrandon@example.net,Home & Kitchen,88.61,1,2024-06-14,PayPal,North William
+96b715d8-5c93-4a61-8b97-dd58aee9b3a9,Justin Jimenez,aburke@example.net,Home & Kitchen,333.6,2,2024-10-04,Credit Card,New Kathleenborough
+dba008e8-387b-4028-a0e7-e70dfe42e2ca,Mitchell Velasquez II,kelly04@example.org,Clothing,25.42,5,2024-05-31,Bank Transfer,Williamsport
+08499017-b0f3-4c38-9224-5d3a6e944694,Shawn Rogers,crystalgonzalez@example.net,Books,229.54,4,2024-02-08,Cash on Delivery,East Destiny
+d7f72d06-8741-4839-a372-db04c39d18a7,Christopher Jacobson,charlespowers@example.net,Books,470.83,5,2023-10-31,Credit Card,New Michaelmouth
+8f510a24-1b21-4737-ae1f-4a465ed0bf4f,Timothy Hernandez,walkerkelly@example.org,Home & Kitchen,381.47,4,2024-10-25,Cash on Delivery,New Jose
+9909c757-1f33-4c2d-8303-0ef435d369b9,Thomas Jacobson,perezmichael@example.org,Clothing,14.01,5,2023-09-26,Cash on Delivery,Lake Donna
+8c18e82f-807c-4161-8c1f-8f66a96387bf,Pam Howell,austin97@example.org,Books,465.94,4,2024-03-05,Bank Transfer,Hendersontown
+d7614a75-6ba5-45e2-9cbf-f9f4d07acf1d,Brian Howell,medinamark@example.org,Electronics,481.4,3,2024-12-12,PayPal,Katherinefurt
+4f85ffe4-4003-414d-8152-5813df49fc32,Melissa Richards,donaldmartinez@example.com,Clothing,45.66,1,2023-03-12,PayPal,Juliaside
+59894cef-f072-4376-8bb8-4ef3d197d32b,Keith Scott,qterrell@example.org,Home & Kitchen,252.45,2,2024-12-26,PayPal,Bellport
+01e89494-958f-4ec6-a231-bf3523e5941e,Dr. Brian Humphrey,bensonadam@example.net,Clothing,368.76,2,2024-04-25,Cash on Delivery,Staciebury
+e6e8b323-ca72-4426-b72b-ea9a576cc213,Annette Nichols,williamstimothy@example.org,Health & Beauty,448.71,5,2023-02-06,Credit Card,Port Kathleenville
+0cd1af69-0fe8-4409-93f9-feaaff099b1f,Sabrina Wells,shahjoann@example.org,Electronics,491.21,4,2023-10-15,Bank Transfer,New Gregoryshire
+af854880-3852-4a3d-aa80-3a9e32414c30,Thomas Grant,rebecca52@example.com,Books,116.17,2,2024-05-13,Credit Card,Rodriguezhaven
+a3822c29-174c-4d5e-8c91-8be0bc1d801c,Timothy Vega,smithjeremy@example.net,Home & Kitchen,485.71,3,2024-06-18,Credit Card,Sanchezshire
+b2262b31-8e96-4f5e-b9da-ee1ce11ec30b,Carrie Sullivan,nortondavid@example.com,Health & Beauty,485.76,2,2024-03-13,PayPal,Marksburgh
+d1a28d53-2c80-49e4-81f0-429a59ebbc61,Marissa Mcdonald,amandaconley@example.net,Home & Kitchen,318.8,1,2024-04-23,PayPal,Amandaton
+caab7a63-e05c-433b-a363-3c5ba6d5b232,Carla Love,tyoder@example.net,Electronics,463.16,2,2023-02-14,Bank Transfer,West Christopher
+f330d76e-16dc-4a55-8179-7a3cbd08c0da,Cassidy Hamilton,michaelthomas@example.net,Books,339.59,3,2023-07-05,PayPal,Jasminebury
+4ad9e0f7-caaf-4632-b194-75fac51ecd7a,Linda Holloway,phillipsscott@example.net,Books,238.55,4,2024-11-18,Credit Card,Douglasview
+da17f30d-d938-48d9-84f5-4be38bc5f0b4,Jeremy Dixon,pamela29@example.com,Home & Kitchen,266.82,5,2023-10-13,Cash on Delivery,Cynthiatown
+e73f320c-08b0-4e94-b091-7de3e7a019dc,April Fuller,sallen@example.org,Books,98.39,3,2024-06-09,PayPal,Lake Melanieside
+79122cc2-4226-4456-8057-014cce1b97cc,Adrienne Green,michaelsantana@example.org,Electronics,151.13,4,2024-12-19,PayPal,Port Brianborough
+7ba3ef8f-07ba-4cda-a92f-59cc73adb8d0,Emma Smith,jbryant@example.net,Electronics,240.25,4,2024-07-11,Credit Card,New Allison
+0d866ac1-8441-4414-96fa-8909b271a461,Richard Johnson,onelson@example.org,Electronics,60.27,2,2024-05-11,Credit Card,Palmermouth
+70b2e0ac-1fcb-4f90-9068-e257d18674df,Cheryl Harris,thomascervantes@example.org,Books,200.32,1,2024-01-13,Bank Transfer,North Rachelborough
+7d2ef2f1-3f87-4f63-815d-183379937b86,Thomas Thompson Jr.,edgartownsend@example.com,Home & Kitchen,103.16,4,2024-09-03,Credit Card,Currystad
+5e5e7364-2c55-4a6e-8a06-520531cb1b50,Kristina White,millerheather@example.org,Clothing,444.16,1,2024-04-15,Bank Transfer,West Adam
+50db3645-aab5-4ce9-b132-02a56e24c1a1,Bridget Baker,blee@example.org,Health & Beauty,477.62,4,2023-09-06,Credit Card,New Tracyborough
+ced0dbd1-1f7a-48b3-9cb8-c5371ff35059,Benjamin Woods,kristen41@example.org,Clothing,438.33,3,2023-09-03,Cash on Delivery,Gonzalezchester
+f7b9aa07-595b-4c0a-9a3e-c7bd66ef2719,Anthony Thomas,jkane@example.com,Clothing,292.62,1,2024-11-05,PayPal,Cooperborough
+1c656a7d-5a45-452f-9196-fbd77608782a,Leonard Moss,qowens@example.com,Home & Kitchen,380.57,2,2023-11-26,Bank Transfer,Anthonyfort
+d2953cf5-2c2f-4ae9-adbc-b384c6fcf236,Gary Gibson,lauren01@example.org,Home & Kitchen,48.86,3,2023-07-23,Bank Transfer,North Edwardchester
+6ed46c7e-4ecc-40af-97ca-f4e50c544cab,Ashley Moody,melissahart@example.net,Health & Beauty,56.96,2,2023-02-22,Cash on Delivery,Johnsonfort
+2a1425af-a1c5-4c14-be0a-cbc43e460a06,Mike Wilson,schmidtronald@example.com,Health & Beauty,440.44,1,2023-02-16,PayPal,Johnville
+40d3cb75-00d8-43b3-a4a6-54925d4509e5,Cindy Burke,anthonyklein@example.com,Electronics,63.17,3,2023-06-07,Credit Card,Romanfort
+5f1a1934-b311-4647-95b2-1286d6b93d4a,Frances Hudson,tmorales@example.com,Books,469.91,5,2024-07-08,Cash on Delivery,Prestonbury
+dc7b066b-3249-4927-a206-ccd84e706731,Sharon Escobar,erin06@example.net,Electronics,125.53,5,2024-01-23,PayPal,Powellberg
+62e5c751-b8cc-4726-92ef-ce8c353721b1,Christian Hamilton,howekenneth@example.net,Clothing,413.09,1,2024-05-17,Credit Card,Rodriguezborough
+f8d4edfc-51b4-4a55-b130-533035462964,James Murray MD,sanchezmichael@example.net,Clothing,481.59,5,2024-03-20,Cash on Delivery,Scottburgh
+7cbfd726-7d86-41b4-af13-2b6245736e98,Gregory Gray,clarkjoyce@example.net,Books,29.21,5,2023-07-24,Bank Transfer,Smithton
+07df86b5-dd65-41cd-95d6-07e7c9e3244c,Charles Logan,jacqueline70@example.net,Home & Kitchen,87.16,1,2024-03-01,PayPal,Heatherbury
+dfa6f799-7690-47e3-88cb-7b5841fb8a4e,Thomas Murray,larawilliam@example.org,Books,46.97,3,2023-09-14,PayPal,New Donald
+dd0ecbd3-8bf9-4e76-a43e-454d8f225ce3,Timothy Peterson,kramerjacqueline@example.org,Books,223.23,5,2023-04-14,Cash on Delivery,New Angelaland
+cb102478-8abe-49c0-8f04-bda87564ec84,Robin Fox,matthew10@example.com,Electronics,263.77,5,2023-03-21,Cash on Delivery,Montesfort
+9204f6d7-611e-4801-ac25-d2f5840c0736,Michael Harris,sanchezbrandon@example.net,Electronics,253.25,4,2024-05-28,PayPal,South Deanport
+6dd8e3f5-29c1-4f43-9dd0-330daa1f1c54,Johnny Owens,raymondroberts@example.net,Electronics,159.97,5,2024-02-23,PayPal,New Nataliestad
+de95d813-c9a8-4191-8bee-401b41789f31,Jack Wise,jgilbert@example.org,Clothing,195.48,3,2024-05-24,Bank Transfer,North Alexander
+e5e5c49a-3448-4d51-9097-fe73730e2767,Michelle Ellis,barbara87@example.org,Clothing,392.65,1,2024-08-27,Credit Card,Shahberg
+a99469bf-b318-4b41-a371-825aeee1dcb7,Jessica Martin,zbrown@example.org,Health & Beauty,300.99,4,2024-02-16,Cash on Delivery,Lake Timothy
+9e38e0b1-bac2-4215-a4e4-4fc10aaecee0,Terri Kane,lewischristopher@example.org,Home & Kitchen,319.47,3,2024-10-25,PayPal,Lake Brianfort
+49f2f24a-dda1-407f-8f0d-329349c8e54e,Michael Hall,jesus95@example.org,Clothing,227.82,4,2023-03-22,Bank Transfer,Christopherhaven
+8f078e85-063a-4bee-b0df-9e6e3bc28427,George Watson,ashleysutton@example.com,Books,227.13,4,2024-07-13,PayPal,Lake Danielle
+42d0d84a-0053-415c-a481-2af3c925fcbb,Stephanie Robinson,katherine77@example.net,Electronics,388.59,3,2023-12-24,Cash on Delivery,Robynburgh
+cbef9713-0871-4f4b-8eda-fb2ca3ed0bd2,Valerie Strickland,katrina91@example.net,Health & Beauty,181.89,1,2023-09-03,Credit Card,North Allison
+3111f765-5eb1-43aa-a176-1822a08464a0,Jennifer Russell,anthonymitchell@example.org,Home & Kitchen,221.43,2,2023-04-21,Cash on Delivery,Rebeccaside
+14529793-782a-4a02-82de-3610c65acc70,Lance Woods,mstewart@example.com,Electronics,225.91,1,2023-12-07,Credit Card,Port Sheilafort
+004117a5-3be4-490d-b714-73b80fac8a5a,Cassandra Schultz,bcurry@example.org,Health & Beauty,224.08,4,2023-09-16,Bank Transfer,Baileystad
+379d97c4-e635-4f74-b3b0-58505268bb27,Jennifer Shannon,coopersandra@example.net,Home & Kitchen,172.58,2,2023-11-01,Bank Transfer,Port Amyville
+f29663ea-6c19-4d1b-88c9-2647f79d3f79,Kelli Davis,fblack@example.com,Health & Beauty,100.39,2,2024-12-20,Bank Transfer,Nicholasport
+50764ab2-6c16-4f16-80dd-55280236937b,Austin Johnson,christian21@example.net,Home & Kitchen,471.64,4,2024-02-15,Credit Card,Lucerofurt
+efc40516-55cc-48c5-a690-bb6aadb28eb9,Suzanne Kennedy,qsalinas@example.net,Clothing,493.8,5,2023-12-17,PayPal,North Andrew
+bdce23ff-ef22-4479-a870-204a7ea7b341,John Gregory,bryanbruce@example.org,Clothing,77.2,4,2024-08-27,Cash on Delivery,Michelleburgh
+9f51e431-5cd8-40a7-a526-2a0e29b4c34f,Jason Edwards,bennetterik@example.org,Electronics,365.99,3,2024-07-14,Bank Transfer,South Marilyn
+61b7f44e-c55b-478c-a8e2-b78330ae76ba,Robert Larson,connertina@example.com,Home & Kitchen,158.0,2,2023-02-06,Bank Transfer,East Angelaview
+42f03bd4-0dd4-4b82-8f8a-c04ccb88118b,Ethan Vega,rhonda00@example.net,Books,69.58,2,2024-12-30,Credit Card,East Robert
+4cb5e308-6e85-405f-83cc-ecb8782b9620,Jennifer Davis,stanleylindsay@example.net,Health & Beauty,439.22,5,2023-05-11,PayPal,South Sydney
+3797588a-0f11-4867-a36f-9b566a6235d8,Kent Massey,johnclark@example.net,Books,89.25,3,2023-01-15,PayPal,Martinezchester
+a691289c-0956-440f-aedc-b91cc34ec4d3,Adam Gamble,newmanjennifer@example.com,Clothing,123.43,5,2024-08-11,Credit Card,Port Sandrachester
+046c84b3-e72b-4238-9f80-89eb3231c501,Yvonne Conner,michael53@example.org,Health & Beauty,162.53,5,2023-04-19,Cash on Delivery,Chelseyville
+056f8afb-0c42-4d7f-b5e7-34a344e9648a,Kenneth Gonzalez,rebeccareed@example.org,Clothing,304.06,1,2023-02-18,PayPal,Sarahhaven
+c1f63a75-8263-406c-855e-8272ff27963d,Daryl Rosario,stephanie75@example.org,Health & Beauty,476.73,2,2023-02-27,Credit Card,New Courtney
+29afa0db-d667-4350-aeb1-845991a70e5e,Mrs. Sarah Davis,thompsonadriana@example.com,Books,385.6,5,2024-09-29,Credit Card,Sandraview
+62c66704-a816-452b-8645-6dcb7fa549f2,Michael Blake,zweaver@example.net,Electronics,89.41,5,2024-09-28,PayPal,Marymouth
+e08b1251-676f-4d6f-bb40-ab157faf78fa,Andrew Reed,katrina52@example.net,Home & Kitchen,80.06,2,2024-01-21,PayPal,North Gregoryborough
+a92640b9-60ef-4e0c-b34e-7384a7cb7b6c,Julie Reeves,jonathanstewart@example.net,Books,214.69,4,2023-04-08,Bank Transfer,Villegasport
+3122db62-5923-4af9-a062-b04214e2beca,Lisa Gonzalez,michael44@example.net,Books,463.66,5,2024-04-12,Bank Transfer,East Derek
+86806c33-125a-4b21-87ee-ce9c59cd0955,Julie Dixon,misty94@example.org,Electronics,359.4,1,2023-03-08,Credit Card,Victoriatown
+394d60c2-00ad-4e18-a31b-aa5a72724eea,James Davis,morrisonrobert@example.org,Health & Beauty,224.84,1,2024-01-04,Bank Transfer,Fisherbury
+eaf9723f-face-4af4-a89b-b8f0d5630fe5,Nicholas Espinoza,whiteadam@example.net,Clothing,53.57,1,2024-10-13,Cash on Delivery,Duncanville
+ad928729-63c2-4791-a9a3-562c068e40d7,Madeline Williams,michaelfrank@example.org,Health & Beauty,362.8,5,2023-05-04,Bank Transfer,Lake Brianabury
+ecc49841-5e3c-45c3-bb10-23779c498650,Karen Hunt,jessicaanderson@example.net,Electronics,226.8,3,2024-12-02,Bank Transfer,Guerreroport
+7341efaf-1c0d-4ed0-8014-048dc567375a,Andrew Perkins,igreen@example.org,Electronics,21.83,5,2024-10-14,Credit Card,New Carmenfort
+c9576c92-869f-40d5-87cb-49d38cea2a91,Sandra Jones,jimrichmond@example.org,Clothing,331.65,3,2023-07-05,Bank Transfer,East Paul
+c8fa55fb-165d-40a0-acf0-cb395d6e8fad,Michael Pena,rebeccafranklin@example.net,Home & Kitchen,349.74,2,2024-04-11,Credit Card,Martinberg
+5a03617e-e4dd-43cb-b9bd-3ec6dec20184,Courtney Salazar,abyrd@example.net,Health & Beauty,78.4,4,2024-08-08,PayPal,Juliastad
+315b8ef5-fe3f-48e0-9401-07aaf643137d,Danielle Kelly,cooperjessica@example.net,Electronics,360.5,1,2024-04-17,PayPal,North Heatherview
+637f846b-ac04-4140-9b42-4c1e963e9f93,Amy Warner,wagnerjennifer@example.net,Home & Kitchen,334.55,2,2024-09-19,Credit Card,Joshuatown
+ae582f3a-87df-4c40-a4f1-2c68084ff80c,Tammie Kim DVM,rebecca79@example.com,Health & Beauty,274.01,4,2024-10-17,Bank Transfer,South Edward
+567ebe9f-c4fa-49f9-b423-719d5ed5724d,Johnny Webb,morgan71@example.com,Health & Beauty,476.4,5,2023-12-02,Cash on Delivery,Martinberg
+d32bebed-898a-4dd9-bf15-a73a7576d357,Carlos Atkinson,mfitzgerald@example.org,Clothing,96.32,1,2024-06-21,Cash on Delivery,Cookview
+08785c18-e8c5-4e12-94fe-7bff1331a00c,Melissa Lutz,rogermccormick@example.net,Books,422.61,5,2024-07-28,PayPal,Michaelmouth
+0cd5c4c9-50d9-4330-8823-fff5105f636a,Ronald Erickson,christopher26@example.org,Books,164.73,1,2023-10-29,Credit Card,North Rachelburgh
+e1b4193a-fa4f-42c3-9fe6-6376575f3aca,Nichole Humphrey,christopherbray@example.com,Health & Beauty,235.39,5,2024-10-10,Bank Transfer,North Amandaton
+39c35d7d-02f2-4ddb-b267-9688288dc540,Jamie Cole,michellejohnson@example.org,Books,27.22,2,2024-08-08,PayPal,Scottport
+71979c1c-c8c4-49bf-a3b4-d707a6997c4c,Michele Combs,gordonknight@example.org,Health & Beauty,439.2,2,2023-12-18,PayPal,Lake Annette
+a3d46065-cd63-44f2-844b-9884f920aeb9,Samantha Brady,jesse41@example.org,Books,370.5,5,2023-04-27,Credit Card,Port Amandamouth
+868143f4-e3ac-4e07-ac2c-c90fdada3fad,Aaron Howell,ryan23@example.com,Home & Kitchen,416.97,5,2024-12-18,Cash on Delivery,East Brittany
+d862fc55-2b07-4eab-851c-eb30c977ef77,Michael Chambers,jason99@example.com,Clothing,35.54,5,2023-12-24,Credit Card,North Andrea
+7fce602f-cb67-4db0-87f7-02816647f488,John Glass,antonioglass@example.com,Health & Beauty,96.47,5,2023-08-04,Credit Card,Barnettmouth
+9ea254de-cbb1-41b9-8795-9e487981e2bd,John Thompson,pateldaniel@example.com,Electronics,343.46,5,2024-11-27,Cash on Delivery,Reyesburgh
+d58e1548-b228-460d-91ba-02d4b7c97959,Christopher Stewart,chelseablackwell@example.org,Electronics,199.37,1,2023-02-10,Bank Transfer,Scottberg
+e9b36e91-bfac-4310-831b-764e2e554f3e,Tristan Nelson,kristen96@example.net,Home & Kitchen,337.21,1,2023-09-27,Bank Transfer,Lake Kristamouth
+451081d8-cbe1-4979-a1ba-c21efe2d23f2,Jeffrey Ramirez,cynthia03@example.com,Clothing,31.22,4,2023-03-05,Credit Card,Lisaport
+7717b87c-d75a-4d28-aee4-b47c5396832d,Matthew Paul,averymichael@example.com,Clothing,160.5,2,2024-12-30,Bank Transfer,West David
+5143852b-f55b-482f-8eb7-bf47c6f9a510,Denise Lewis,ntrevino@example.net,Home & Kitchen,50.56,4,2023-05-28,Bank Transfer,Port Jessicamouth
+4b6d98fd-4207-438e-b8d5-e925bdf1af64,James Valdez,laura80@example.org,Home & Kitchen,188.24,1,2024-07-05,Cash on Delivery,South Kellyfurt
+cbe330d4-3351-4c4c-9e04-7b66562cb7e6,Tabitha Phillips,amanda59@example.org,Books,483.93,1,2024-11-26,Credit Card,Shannonberg
+5317588b-15c1-4846-9166-dbef635f7d03,Cassandra Carpenter,melanieparker@example.com,Home & Kitchen,159.97,2,2024-07-16,Credit Card,Elizabethton
+2b1110f7-ccda-42c6-9629-c40c2eeba971,Tiffany Harding,aliciajones@example.net,Home & Kitchen,129.49,3,2023-11-22,Credit Card,Port Robert
+d9bc4805-78b8-41b9-b8b1-3280c5517575,Kimberly Cordova,michael24@example.com,Books,261.73,5,2024-06-24,Cash on Delivery,Anneport
+079627da-ddd9-4492-b14a-57b248e93dd8,Sandra Mcclure,kentsandra@example.net,Home & Kitchen,378.42,2,2023-05-18,Cash on Delivery,Lake Nicoleview
+8e0a04cb-d317-4d48-b989-857523652c18,Pamela Valentine,laurenholmes@example.org,Health & Beauty,350.55,1,2023-05-28,Bank Transfer,Walterstown
+0f98cc31-cfce-46f0-b197-7ef67d751761,Pamela Rodriguez,kimberly39@example.net,Books,237.0,3,2024-09-09,Cash on Delivery,New Maryberg
+42a9b875-2ef2-495c-a8c4-3fa92da1eb5b,Sherry Cox,kara22@example.net,Clothing,165.11,4,2023-12-07,Credit Card,South Ericbury
+d6ead9c7-4467-4598-ae96-0d10cec7d612,Kathleen Edwards,benjamin43@example.net,Books,231.08,1,2023-02-25,Cash on Delivery,Irwinview
+114893ab-3565-45a5-affc-36a3f7014ebb,Judy Eaton,terrisampson@example.com,Clothing,270.51,1,2023-03-02,PayPal,Katelynmouth
+e5ca1449-b2da-4395-bf8e-c05e21b697d8,David Rios,kristenmontgomery@example.net,Books,188.6,2,2024-11-04,Cash on Delivery,Port Michaelbury
+41251851-c9c0-429d-9593-dcdf5631653a,Patrick Baker,marialeonard@example.org,Home & Kitchen,150.75,3,2023-08-24,Bank Transfer,Lake Brandi
+32118918-98ae-4e83-83d8-d214de5977ce,Angela Miller,akelly@example.com,Books,160.29,1,2024-11-28,PayPal,West Alanstad
+3813c2f1-8c5e-4b03-9cfa-3bbabaeaa259,Michael Murphy,gentrymonica@example.org,Electronics,400.39,2,2024-11-21,Credit Card,Johnsonmouth
+d7cce1ce-83f9-41e8-8dbb-bf00e2ce0b3c,Jerry Brown,jasoncallahan@example.com,Home & Kitchen,418.31,3,2023-03-10,Credit Card,Jessicaburgh
+dd7e1107-d386-4270-b1a1-aa04ac1b8ade,Tina Walter,hendersontravis@example.org,Clothing,405.61,4,2023-04-21,Cash on Delivery,Freemanside
+75089e17-02fa-45c6-8e1c-75421a6cf130,Briana Pena,amy71@example.com,Electronics,460.42,4,2024-08-11,PayPal,Dixonfort
+a1edbca2-6373-49ee-9dcc-843ea6a5b50e,Roger White,walshrichard@example.org,Electronics,86.65,3,2023-12-20,Bank Transfer,West Jason
+671ef244-601c-4c40-beef-398d1d6f77ea,Andrew Brooks,austin78@example.net,Clothing,12.81,5,2023-08-14,Cash on Delivery,South Jasonmouth
+aeabb1da-3825-44dc-a6fe-f758f55686ef,Marilyn Conway,ejones@example.com,Books,478.46,4,2024-08-06,PayPal,North Lisaton
+a935604c-f12a-4ee0-ba06-0c3e70d5987e,Theresa Gillespie,eric27@example.net,Health & Beauty,489.43,5,2023-07-13,PayPal,Kevinmouth
+ff2cbe5d-d04f-49e4-833c-1eb71efcd9d8,Elizabeth Duke,udiaz@example.com,Books,10.3,4,2024-09-25,PayPal,New Nancytown
+21da1f82-dda4-4c35-9218-e47356ac1a3d,Melody Allen,mccanndanielle@example.com,Home & Kitchen,300.8,3,2024-08-03,PayPal,Janetland
+a6ab56e6-b587-4451-9fea-ac85988a11f6,Sherry Williams,martinezjames@example.com,Electronics,388.59,3,2023-05-08,Cash on Delivery,Allenfort
+5da4d8f8-3a1b-4532-915d-aa8a6c17425c,Ashley Carlson,nschneider@example.net,Clothing,384.54,3,2023-10-05,Cash on Delivery,South Samanthatown
+debe1342-31b3-4e66-a562-f7d39dee88b1,Jon Hopkins,patricia39@example.com,Books,333.75,1,2023-03-25,Credit Card,North Jermaine
+dcc38243-aac5-47f1-a53c-32c1acc7089d,Deborah Torres,dgray@example.net,Home & Kitchen,47.97,4,2023-04-05,Cash on Delivery,Andersonbury
+5ecf364d-b803-45fa-8e46-da66d98cf525,Carol Solis,onewman@example.org,Clothing,19.26,4,2023-11-04,Credit Card,Wilsonchester
+700fe9a8-63cf-4380-843e-47e082e7ba72,April Mclean,jacqueline21@example.com,Books,266.49,2,2024-05-20,PayPal,North Michael
+b5f915f7-ab56-4761-894e-96bca0156556,Anthony Schultz,whitetammy@example.net,Health & Beauty,76.29,3,2023-05-30,PayPal,Tuckerport
+1e42337a-eb8c-47d3-8790-ad1b061a137a,Stephanie Young,munozkaren@example.org,Books,282.68,4,2024-02-29,Cash on Delivery,East Alyssabury
+1615230f-c54e-41c8-a34f-1120f095e5ce,Cheryl Pruitt,josephross@example.net,Clothing,119.79,3,2023-08-21,PayPal,Geraldview
+4b70f139-7461-4ae3-ae65-0e01a0dce1f0,Linda Young,wwelch@example.org,Health & Beauty,376.75,2,2023-05-12,Cash on Delivery,Robertborough
+85454420-1c75-4f3f-af05-e62dc97c7926,Jack Goodwin,nicholas36@example.net,Books,477.0,1,2023-09-21,Credit Card,West Amytown
+3d3f8b0a-e1fc-4336-9fce-6304c8430507,Danny Mcpherson,allison80@example.com,Home & Kitchen,123.63,1,2023-04-15,PayPal,Thomasport
+4f12e811-8839-4a46-9a1e-5cb718357992,Mariah Richardson,hamiltonjessica@example.net,Home & Kitchen,254.65,5,2023-02-22,PayPal,Emilytown
+2a769308-6138-40b1-a4b5-0c943eb87fdf,Michael Armstrong,whitakeralicia@example.com,Health & Beauty,173.62,4,2023-03-30,Bank Transfer,West Christopher
+51c13e7d-3fef-4c17-92fc-7c8d6a130e10,Jon Wallace,inicholson@example.org,Health & Beauty,64.54,3,2024-08-23,Cash on Delivery,Jamesfort
+0c3c27d1-27e8-48a9-9eb0-941993e2b85a,Sean Flowers,william79@example.com,Books,369.4,3,2024-08-11,PayPal,South Michellechester
+ed04bf55-3464-45e6-bb7c-4f862956ccee,Oscar Brown,stephanie18@example.com,Books,444.14,5,2024-04-21,Bank Transfer,East Kimberlyfurt
+c8585168-cb03-4df2-81ff-32da10cfe45e,Amanda Torres,sarahduffy@example.com,Books,485.7,1,2024-09-09,PayPal,Burnsberg
+2ecc204b-24a7-4676-927d-4d0acf7ddce0,Susan Olsen,dstewart@example.org,Health & Beauty,89.57,2,2024-08-02,PayPal,Lake Juliaburgh
+47882cd3-f81b-4aa2-b93f-46b0f2ea231d,Kara Bishop,theresalarsen@example.net,Electronics,286.77,3,2024-07-28,Cash on Delivery,Doylehaven
+3601ce43-ba78-4bf6-9d74-76c55b6ca153,Caleb Neal,barrettdaniel@example.com,Home & Kitchen,185.67,2,2024-01-13,Bank Transfer,Douglasfurt
+76122808-610c-466f-9229-352664065c2b,Crystal Hawkins,grahamsusan@example.net,Health & Beauty,41.57,2,2023-06-03,PayPal,North Jacqueline
+7ca67448-4994-4b2a-9348-b9dc661c263b,Susan James,careydeanna@example.com,Home & Kitchen,190.41,3,2024-06-09,Credit Card,Lake Louistown
+0985fd77-68c8-4a27-a053-b34d6b87be23,Latoya Dixon,juliesimmons@example.org,Home & Kitchen,419.8,5,2023-02-17,PayPal,Johnville
+331cbd93-2f70-4694-ba84-9dcdba7f0239,Jeanne Torres,piercetracy@example.net,Clothing,63.81,2,2023-05-24,PayPal,East Garyborough
+18dad6af-8058-45ca-b8a6-e6b6b5902e03,Terry Chambers,hancockmichelle@example.net,Clothing,363.13,3,2024-03-15,Bank Transfer,Walkershire
+ee56fd65-0997-4d8a-82bd-3024f13440e6,Christopher Mcdowell,mary28@example.net,Health & Beauty,309.39,3,2023-07-20,Credit Card,Lake Jillborough
+f28d2ad0-42e7-4986-9c7b-2ed095590861,Tom Huber,vreese@example.com,Health & Beauty,480.71,1,2024-10-13,PayPal,North Monicaburgh
+73060903-0593-490d-826f-b6574c49b0f8,Jonathan Dickerson,kyleosborn@example.org,Books,201.49,3,2023-12-24,PayPal,West Kellychester
+550b4186-c9a6-4629-8a16-62ca6b2671ad,Melinda Gutierrez,kflores@example.org,Health & Beauty,180.12,3,2024-12-28,Credit Card,Sandersshire
+2259e931-1911-4b69-ab24-ac7773053e11,Heather Garcia,robert81@example.org,Books,348.37,2,2023-07-18,PayPal,Lake Alyssabury
+318b17ff-7d29-4a70-8be6-6afebe7dd709,Sherry Powers,sara24@example.org,Clothing,257.94,4,2024-03-03,Credit Card,South Dawn
+c6b979be-636d-4474-a3af-0de4ae02511a,Kenneth Brown,scott42@example.com,Home & Kitchen,83.64,2,2023-10-02,Credit Card,West Johnmouth
+3e15e551-dce6-4b89-98a7-3a6365c3f884,Corey Charles,jason77@example.net,Clothing,70.09,3,2023-10-08,PayPal,Brianmouth
+ff65f82a-740a-486c-8856-4622a3f19cb1,Janice Taylor,heather63@example.org,Home & Kitchen,400.06,1,2023-06-01,Credit Card,East Haleymouth
+f75248ac-057f-445e-8502-3b4304bdfdd7,Zachary Harris,madisonwallace@example.net,Electronics,275.47,4,2024-03-26,PayPal,Jocelynville
+d6e76a7c-24b4-40e9-9431-0d279e355997,Robert Perez,tray@example.org,Clothing,81.34,3,2024-04-27,Credit Card,Paulmouth
+a660c154-2ec6-44d7-9c7d-67559398afe2,Ian Wilkins,harrispatricia@example.net,Health & Beauty,420.49,2,2023-12-13,Credit Card,Bradleyton
+e86d968a-ad56-4b4d-8ade-6b235989ada8,Keith Baird,piercealan@example.net,Home & Kitchen,403.45,1,2023-11-12,PayPal,Johnsonbury
+8e0d98f2-d45f-4ee7-90a6-47f023848669,John Green,pachecokimberly@example.com,Clothing,180.57,3,2024-10-23,Cash on Delivery,Jenningsfurt
+92023d5c-83f1-4d0f-854b-1957eac4ad40,Nichole Woods,wwelch@example.com,Books,469.88,3,2024-12-08,PayPal,Shawnland
+8053e133-1591-472e-92f0-99a88b4e8ab7,Steven Shaw,frances97@example.org,Electronics,494.0,5,2024-04-11,Credit Card,Lake Joel
+c220cff0-54cd-4913-b0a9-3d80b4073347,Jessica Stone,cunninghamsamantha@example.org,Home & Kitchen,298.74,5,2024-05-11,Credit Card,North Johnside
+d73cb9b6-c038-469a-a870-ce76ac3a719a,Michael Gonzalez,hbean@example.net,Home & Kitchen,71.55,1,2023-08-14,PayPal,Melanieport
+ad1908ae-3318-4cac-a971-c74738686416,Michael White,miaforbes@example.net,Electronics,46.29,5,2023-02-26,Cash on Delivery,West Timothy
+9492bd1e-e069-4962-b033-eaed9ab16351,Lisa Mcdowell,uhill@example.com,Health & Beauty,189.94,1,2023-07-23,Credit Card,Washingtonstad
+c537a0b4-0505-4350-97c2-ba9ac6528ed0,Daniel Strickland,sherri88@example.net,Books,72.71,4,2023-06-20,Credit Card,Alyssachester
+462be0a0-8bf1-4e61-8628-5bc240c3fd97,Michael Mcgee,ohicks@example.net,Health & Beauty,116.64,2,2024-09-22,Cash on Delivery,Huffmanhaven
+25268305-0f2b-4a7d-a43f-afb6dd0c77c1,Brenda Wilkerson,jeremytucker@example.org,Books,280.62,2,2024-02-06,PayPal,Taylorland
+4b5b3c43-aed9-49d4-9f53-f7960ccf4d5c,Katrina Sims,nathan23@example.com,Electronics,112.42,4,2024-02-14,Cash on Delivery,Lake Justin
+74145934-9969-49df-9c5c-4ca40aae3ff5,Dustin Solis,guerrakelsey@example.net,Health & Beauty,419.26,5,2024-05-10,Bank Transfer,South Kimberlyview
+f9d951ff-d23e-4e16-ab4c-4f509ad1d79f,Sean Phillips,brian00@example.com,Electronics,73.57,1,2024-06-11,Bank Transfer,North Luisstad
+65e4b49b-324f-4d4d-92b8-5d6120428b14,Jonathan Pope,gomezcraig@example.net,Clothing,403.21,5,2024-10-10,Bank Transfer,New Brendaland
+6c622f0e-a8ef-4bbb-9e7b-c1367ccb35de,Sheri Armstrong,cruzjustin@example.com,Clothing,482.3,3,2024-08-09,Bank Transfer,South Christineborough
+db23df74-538c-431b-b141-4cd842aae868,Anthony Hernandez,pinedalance@example.net,Clothing,412.8,2,2024-08-08,Cash on Delivery,Ashleyfort
+51be7961-21f8-41d3-91d6-723d00d3a649,Jennifer Ray,johnny61@example.com,Clothing,47.17,3,2024-02-05,Bank Transfer,Seanland
+7031a445-210e-4c03-a3a6-2b9b8af3d650,Joann Williams,marknelson@example.com,Clothing,419.22,1,2024-01-08,Credit Card,Shawnstad
+03eead6f-8a8a-425c-b2f0-11d393e7a4df,Mark Owens,scott84@example.net,Books,431.65,5,2024-09-16,Bank Transfer,West Kevinmouth
+503424d1-407f-4aef-a14b-c6deaa5605b4,Barbara Thompson,craig18@example.com,Health & Beauty,202.3,4,2025-01-07,Credit Card,Gonzalezmouth
+2a9ebb49-2133-42cd-8457-c2d8c062c3d8,Jessica Scott,georgepatterson@example.org,Books,273.7,2,2024-07-29,Cash on Delivery,Williamtown
+0b86b6b4-1c1c-4828-ad3e-9d7d82c8409f,Bradley Giles,pthompson@example.com,Health & Beauty,59.11,4,2024-04-26,Bank Transfer,Brooksborough
+b4880a9b-6f9b-42b1-a2d1-0e85a37c5e7c,Ashley Colon,smithelizabeth@example.com,Electronics,15.93,5,2024-05-23,PayPal,Kimville
+a483822c-c47c-4f4d-8daa-a8d14180d0b3,Melissa Freeman,wtaylor@example.com,Electronics,77.36,2,2023-08-13,Credit Card,Port Edwin
+c93e8bcd-ef59-46a5-b8f0-615bf07e0bd5,Miranda Bailey,cartersamuel@example.net,Health & Beauty,302.75,3,2023-08-12,PayPal,Port Laura
+73a3fa59-aca5-4d7e-bd42-86e3ba97afc8,Dana Ellis,shelia61@example.org,Books,378.53,2,2024-05-30,Credit Card,East Jaredtown
+8b51f0b8-eef8-41d9-801d-c6c93b5790d1,Ronald Taylor,jlong@example.org,Clothing,456.08,3,2023-11-18,Credit Card,North Robertshire
+c59f294d-a68d-4e02-b48a-a5badd8a7e60,Jacob Williams,bhawkins@example.net,Electronics,173.98,2,2023-09-14,Cash on Delivery,North Jerry
+3d18f949-c7d5-42ec-b7fa-ab966e12f3a1,Deborah Miller,angela56@example.com,Clothing,252.52,3,2023-05-16,Credit Card,North Daniellechester
+e7661113-0b50-4aa9-99ef-81d19f71bf1e,Nicole Edwards,camachoaustin@example.com,Health & Beauty,488.32,1,2024-07-19,Cash on Delivery,Robertsfurt
+0e888b34-2b1b-4b5b-a370-8b990a4c834b,Mr. William Hicks,brandy06@example.net,Books,405.29,3,2023-02-03,PayPal,Heatherfurt
+9d97d8e2-665c-4315-91ac-20e3260d6b4e,Harry Hale,amy13@example.com,Home & Kitchen,412.96,3,2024-12-21,Bank Transfer,Lake Kenneth
+11091749-01b6-46cb-9c99-4569e3e1d134,Melanie Carter,ngomez@example.net,Electronics,107.54,3,2024-10-29,Cash on Delivery,East Ashleyburgh
+8b0e0f46-2782-41bf-857c-26558f4c861a,Benjamin Hutchinson,matthew25@example.com,Home & Kitchen,26.48,5,2024-12-19,Cash on Delivery,West Jamie
+97f3b143-6a09-44cd-afd4-1e37812b4063,Spencer Horn,angelakirk@example.net,Books,405.81,2,2024-02-07,Cash on Delivery,Johnsonburgh
+556c6823-0af8-47f1-8777-ce0ec9dc3530,Tricia Brown,lauraharrison@example.org,Health & Beauty,119.91,3,2023-09-07,Cash on Delivery,North Thomasmouth
+2c5f4255-eafd-4163-915a-310a7001441f,David Maynard,kara58@example.net,Electronics,179.36,1,2024-03-08,Bank Transfer,West Elizabeth
+ec226f57-4166-467e-bac1-e506f7696a59,Roger Levy,corey70@example.com,Electronics,123.89,3,2024-05-10,Bank Transfer,Alanfort
+b628380b-a092-4335-8262-fef2d3f681cd,Rhonda Page,kevingreer@example.com,Electronics,71.35,5,2023-06-16,Credit Card,West Diane
+cac0d6f5-eba5-4d8e-9324-fa9c3afaea7e,Monique Rodgers,jessica54@example.com,Clothing,408.09,4,2023-05-16,Bank Transfer,Robertmouth
+c2616d8e-bb16-4912-9492-5186336464fe,Rebecca Martinez,micheal08@example.net,Home & Kitchen,381.4,3,2023-11-22,PayPal,Martinview
+d090ebcb-c8ea-47d8-a530-1f7b076f0706,Allison Williamson,cheryl58@example.com,Home & Kitchen,380.62,3,2024-04-24,Cash on Delivery,Maryport
+1fe1d6a5-52b6-4029-9279-c2559aeaa829,Lisa Rodriguez,jacob71@example.net,Electronics,57.37,5,2023-08-15,Bank Transfer,Troyview
+fe739ee6-aea5-46fa-a7d5-be2dc8b70d68,Michael Gonzales,henrymichael@example.com,Books,184.58,2,2024-03-01,Cash on Delivery,West Amyville
+566a2233-36c4-4892-af48-72c7c238127b,Timothy Sawyer,robertward@example.net,Home & Kitchen,149.42,4,2024-11-22,Cash on Delivery,Kristinview
+9965f435-6f31-486e-b3c9-12f13c11e4dd,Mackenzie Brown,melissa51@example.com,Home & Kitchen,401.84,5,2023-10-23,Cash on Delivery,Port Danielleshire
+2f77818b-3586-46c4-8e3d-c0e1581e0fb1,Kristin Jordan,andrewsmith@example.net,Electronics,332.42,5,2024-06-15,Cash on Delivery,East Deannaport
+935901ac-a8c3-4863-94f6-1afd2c35a40d,Michelle York,nataliehancock@example.org,Electronics,197.34,3,2023-02-08,Bank Transfer,South Richard
+56b4034f-91d0-4360-bf0f-1cfc19a23d78,Tara Doyle,qreid@example.com,Clothing,477.92,5,2023-12-31,Bank Transfer,Johnshire
+76359e4f-5248-4d00-9d99-5c8dc0915888,Danielle Johnson,gjohnson@example.org,Health & Beauty,79.03,2,2024-11-01,Cash on Delivery,Matthewberg
+4db51ed8-0997-478e-97ba-0b80487a9a3b,Keith Floyd,davidtyler@example.net,Health & Beauty,212.26,2,2023-10-28,Bank Transfer,Jeffside
+9dba2f9e-1024-400c-b99f-bd3a2a1034d3,Brooke Meza,sarahevans@example.net,Health & Beauty,432.14,5,2023-09-06,Credit Card,South Davidmouth
+46d5f491-6c1f-4140-bea7-b37cb2cd9d9a,Stacy Martinez,abrown@example.net,Electronics,46.43,1,2023-04-09,Bank Transfer,Port Frankberg
+1a8e3f19-b6be-4ccc-834a-cdacf11185eb,Ricardo Peterson,alambert@example.net,Electronics,300.49,4,2023-08-15,Credit Card,Johnburgh
+c118140b-0b72-4b27-b6d9-4c2a53984102,Kimberly Hood,owensdillon@example.com,Health & Beauty,79.16,4,2024-03-05,Cash on Delivery,Ashleyfort
+de15fc80-1424-4159-9626-e80bfbccea65,Joseph Mills,howardstephanie@example.org,Clothing,208.12,4,2023-09-30,PayPal,West Deborahborough
+f9d46625-0a43-44d5-a93d-d32e2b6c1c8a,Mary Hayes,kevin57@example.com,Home & Kitchen,27.77,5,2023-04-20,Credit Card,East John
+25c0377b-d2b7-4745-be1a-afc8d93c78b2,Christopher Rodriguez,amber49@example.net,Home & Kitchen,175.8,2,2023-06-17,Cash on Delivery,Rickeymouth
+cf42236f-237b-4406-946d-4d92945d2dc0,Susan Henry,lawsondustin@example.com,Books,114.02,4,2023-03-27,Cash on Delivery,South Candice
+210e4c81-4a1a-4af9-8895-56024e30c16b,Erin Garcia,scott26@example.org,Home & Kitchen,257.39,3,2023-09-29,Credit Card,Perezberg
+d0fe6c2a-c9f4-4f9f-8b82-6d9e7cd58c32,Ricky Reed,hoffmansteven@example.com,Clothing,11.14,5,2023-07-15,Bank Transfer,West Andrewchester
+f868d8d9-20a7-4da9-be32-6e42894e08d2,Catherine Stevens,mitchellryan@example.net,Health & Beauty,50.43,5,2024-12-08,Bank Transfer,Jeffreytown
+c98983af-3d24-45d9-9c92-f995ce8e699a,William Hill,vickiebaxter@example.com,Health & Beauty,451.31,1,2023-04-17,Credit Card,Robinsonton
+d8ff4f68-f9f3-4553-a3e1-c6d19ae490f5,Ebony Parsons,bparrish@example.net,Clothing,27.75,3,2024-02-01,Cash on Delivery,Mitchellchester
+49b81e3b-5b96-405c-a9cf-8a79ca4156c0,Vincent Brown,tamara26@example.org,Home & Kitchen,116.07,5,2023-08-23,Cash on Delivery,Marissaborough
+fd1aefda-86bb-438c-97c9-0ab67caf7464,Andrea Peters,ethanbradley@example.com,Books,344.45,4,2024-02-22,Bank Transfer,Vickitown
+b01d1fd2-8760-4f94-b98d-34377238ab95,Todd Crawford,vzamora@example.org,Health & Beauty,390.99,4,2023-07-31,Credit Card,New Claytonview
+88754a2b-9921-4fbb-9a35-ee562e869188,Autumn Wallace,hhaynes@example.org,Home & Kitchen,472.25,4,2024-06-05,Cash on Delivery,Tonytown
+edba6984-89cd-4eb3-b056-a3b60625f56a,Jordan Shaw,gholden@example.net,Clothing,44.28,1,2023-09-01,Bank Transfer,Port Paul
+82d5efa4-e31c-4331-94c9-c2cb63e9b274,Michael Franklin,victorwade@example.org,Electronics,148.91,5,2025-01-11,Cash on Delivery,Brandontown
+a434a753-dfb4-44ac-88dc-17d0004038c6,Bradley Jimenez,michelle45@example.com,Clothing,162.56,4,2024-12-17,PayPal,Lake Kristenland
+8dd118e5-0431-42f1-94b4-dbf6a622a662,Stephen Smith,klinekaren@example.org,Home & Kitchen,116.6,4,2023-05-16,PayPal,Ryanberg
+7951361f-6f58-415c-9a4a-845d11b7ccf1,Haley Hernandez,julia09@example.net,Health & Beauty,465.68,2,2024-11-21,PayPal,Lake Patriciamouth
+f4d4449e-374c-4c05-96b9-3b3dba39245a,James Ramirez,camerondavidson@example.com,Electronics,83.94,4,2023-12-12,PayPal,East Mallory
+22b8850e-fb8e-40b9-af2e-daeb8873f0c0,Michael Leonard,adam03@example.net,Health & Beauty,493.81,2,2024-04-25,Credit Card,West Scottland
+f518dc9b-d5fb-43bc-afa2-300d42123708,Tammy Morales,karen03@example.com,Books,393.64,3,2023-02-07,PayPal,Davisville
+ff23ab8d-05a9-4436-a1e9-87290c72b3d3,Angela Davis,eric44@example.org,Books,463.51,1,2024-11-06,PayPal,Wilkinsonland
+25df5e73-74e8-4a87-a98f-2eb67005e33a,Jordan Steele,castanedawilliam@example.net,Books,24.59,2,2024-12-05,Bank Transfer,Sharonchester
+4ddeab2a-0ee9-496c-bf0e-ea3d2b7c7ec4,James Tucker,sbrady@example.org,Electronics,12.53,5,2023-09-16,Cash on Delivery,Kathyberg
+ad27cc1d-8ee7-4afe-8329-4ed798c07ef6,Ricardo Rangel,aaron95@example.net,Books,436.87,4,2024-11-16,Credit Card,Lake Susanhaven
+5c52bfaf-8993-494a-a5f5-1507ca3777f8,Sharon Wilkinson,xsmith@example.com,Books,318.58,4,2024-09-28,PayPal,Sloanstad
+7c249958-b256-4dd1-b55c-021e25ea621c,Michael Olson,chelsea87@example.org,Home & Kitchen,221.31,5,2024-05-04,PayPal,Laurenbury
+5dcbdd4e-394b-41d6-833b-d797c1da9eb0,Kristin Stanton,benitezstanley@example.com,Home & Kitchen,112.55,3,2024-11-04,Bank Transfer,Port Kara
+3ea6f3af-b202-4bed-b981-675257708f10,Eric Black,logangarcia@example.net,Clothing,125.6,1,2024-04-08,PayPal,Bethberg
+2f5b45e6-94c2-4930-adc5-83efb1ade4f1,Ronnie Singh,coletodd@example.org,Clothing,379.49,1,2023-10-31,Bank Transfer,Theresastad
+b96bf11d-a315-4fe5-8e86-820dc513c7d7,Carla Lee,derrick97@example.net,Clothing,483.54,5,2024-09-04,Bank Transfer,Jacksonberg
+8c0c9cbc-51b1-4301-bdd6-a5b5fe0e89de,Whitney Steele,stevenhill@example.net,Health & Beauty,412.14,5,2023-04-05,Bank Transfer,Lake Jennifer
+90063110-f30c-406e-8e79-c3a00d26cbd3,Emily Smith,gsmith@example.net,Clothing,50.02,1,2023-08-10,Cash on Delivery,South Allisonborough
+1c2c911b-851f-435c-9894-d56d7012f218,Wesley Bowman,omurray@example.net,Books,462.42,4,2023-06-20,Bank Transfer,East Denise
+b94439e4-ee6d-4fae-afa1-c2ba2e2317ca,Jessica Wong,brownbrittany@example.net,Books,492.87,1,2024-03-29,Bank Transfer,Desireeton
+e8efb4bf-c604-4403-af50-a60bb0889759,Erik Cain,wking@example.com,Home & Kitchen,73.93,3,2024-10-11,Cash on Delivery,Lake Natalieton
+6df1ffec-54fc-4f1c-a3d4-d20c9ea52cc9,Kathleen Williamson,sdiaz@example.net,Electronics,384.4,2,2023-01-27,Credit Card,Mckinneymouth
+834a6988-8631-4889-89e9-71c91dfe1e59,Sharon Oconnor,sjohnson@example.com,Clothing,28.75,4,2023-08-25,Bank Transfer,East Tammyborough
+26d1e308-5d8a-42b3-9190-fab6909353b9,Jennifer Ramsey,barbaragregory@example.net,Electronics,142.23,5,2023-03-15,Bank Transfer,Marshside
+93f45627-e0c5-4131-8de2-5913e9270b05,Steven Webb,littlejoseph@example.net,Electronics,13.09,2,2023-12-18,PayPal,Savannahfurt
+94d8d51a-7cef-4854-9f35-87c70e812ad8,Lori Peck,melinda09@example.org,Health & Beauty,209.73,4,2024-03-31,Bank Transfer,East Colleenhaven
+97ccc784-1c16-4299-ad7c-08c04cee8964,Mary Mcguire,vryan@example.net,Books,492.41,2,2023-03-30,Cash on Delivery,South Michaelville
+7cfe23da-837a-4f34-92a2-5c3d72f9e74a,Connor Lamb,scottcross@example.org,Electronics,427.83,5,2023-06-17,Bank Transfer,North Donald
+34e7d4c3-6519-4d3f-920f-c993f8a888a4,Misty Davidson,cameronmurray@example.net,Home & Kitchen,249.9,2,2023-05-19,Cash on Delivery,New Stephen
+630aae99-05eb-468a-a211-04cf0dca5df2,Andre Ford,angela60@example.net,Home & Kitchen,53.23,1,2023-03-25,PayPal,Mooremouth
+321b27e3-ee7f-4d87-b692-32b650ea266b,Eric Boyer,tflores@example.com,Books,308.35,2,2024-05-28,Credit Card,Carrollport
+1e35830c-d9e6-4536-a10d-ec101f16301c,William Fritz,campbelladam@example.com,Home & Kitchen,194.75,5,2024-04-16,Cash on Delivery,Lake Charleshaven
+2e4d0211-4e20-4fd3-b61d-c96c71270c50,Mr. Philip Bush,baileybrendan@example.org,Clothing,102.85,1,2023-02-10,PayPal,Schwartzshire
+74fe65ec-3048-44b1-8ca4-54bb66ccb173,Christina Thompson,wagnertammy@example.com,Health & Beauty,375.4,1,2023-02-01,Cash on Delivery,Garciaport
+c6484a10-21f5-4213-b6eb-e5f1d231d49b,William Townsend,stephaniedaniels@example.com,Books,169.35,1,2023-11-17,Credit Card,North Christian
+d83e3fc6-8fbf-4048-9a96-25ce878f7f88,Megan Hatfield,jennifer60@example.net,Health & Beauty,495.73,2,2023-04-25,Bank Transfer,West Karen
+d8cde0a7-62bf-49ea-95bd-d8a9ce353997,Linda Small,joseph46@example.com,Books,391.27,4,2024-07-19,Cash on Delivery,Matthewstad
+0901b159-22bc-4b69-8f2f-172a40ebec5f,Shelley Matthews,sharonbeasley@example.com,Books,413.1,5,2024-11-08,PayPal,Melissamouth
+ebcbfa7e-3671-4232-8532-7d0ba53ea0ec,Leslie Dyer,smartinez@example.com,Books,241.77,5,2024-01-08,Cash on Delivery,Tamarashire
+38e051cb-8671-46dd-8668-9cd5c7567f36,Nicole Hubbard,fhoward@example.net,Books,20.39,5,2023-04-14,Cash on Delivery,North Karen
+2a1e4db9-36a8-45b3-a2c8-e224a375d781,Angela Callahan,sandra12@example.org,Health & Beauty,123.44,5,2023-01-20,Credit Card,Joanneberg
+96509053-a57d-4677-aea8-1301ce0e52f9,Gordon Jones,garrisontimothy@example.net,Electronics,322.12,1,2024-09-13,Bank Transfer,Milesburgh
+0486f364-79d7-4538-91ec-e681620386d0,Mr. William Rivera DDS,dguzman@example.net,Electronics,203.83,3,2023-09-19,Credit Card,Sherryside
+3d2eb353-19b8-4a4f-a8f9-e118a891b5f6,Whitney Ramirez,fuenteskristin@example.net,Electronics,137.0,5,2024-08-28,Bank Transfer,Lake Heather
+ebd7b198-6158-431d-8b6d-45af59fc82ae,Joseph Powers,wilcoxtammy@example.com,Books,286.8,4,2023-09-10,Cash on Delivery,Porterbury
+911994ea-3b1e-4e7a-a393-a707aa62a464,Robin Horton,staceyriley@example.org,Home & Kitchen,164.39,1,2023-02-03,Bank Transfer,Gomeztown
+3cba278a-9d56-456d-a368-dd422d8c2a7e,Heidi Stewart,pramos@example.net,Clothing,493.7,5,2023-04-28,Credit Card,Port Christopher
+02cbf2df-49af-4191-8f0e-fbf0401f924f,Paul Price,yallen@example.com,Home & Kitchen,244.11,1,2024-06-30,Credit Card,West Carriemouth
+1d34af58-8a3b-428c-8235-add7d593be84,Chelsea Turner,gonzalezkyle@example.org,Home & Kitchen,240.29,1,2023-07-10,PayPal,South Kellyhaven
+a23e6615-f677-4766-b025-a71cf2f18588,Richard Hamilton,amber02@example.org,Home & Kitchen,115.64,2,2024-03-13,Credit Card,West Debraville
+19fe520c-846a-4e34-9493-48ab8404936f,Jennifer Garcia,jeffery90@example.net,Home & Kitchen,308.77,2,2023-08-02,PayPal,Rodriguezview
+7216aa6f-842a-4020-b149-ab96f23b95bf,Brandon Meyer,dramsey@example.org,Clothing,361.2,1,2024-06-09,Cash on Delivery,Cooperstad
+9874436f-abc5-4878-a52d-0f59f32f0138,Christopher Johnson,jason98@example.net,Electronics,478.69,3,2024-09-02,PayPal,Lake Laurie
+0ea978b4-e6c3-4661-82e3-98672774bd77,Brianna Harris,tgray@example.net,Books,461.06,5,2024-12-29,Bank Transfer,Lake Joshua
+e9a2aff7-06a4-4b6a-a06e-fe39fb2d68e6,Judith Mercer,michaelmoreno@example.net,Electronics,356.96,4,2024-02-09,Bank Transfer,Holderview
+c9d4add8-0457-4573-9111-7940851f7edd,Stephanie Marquez,justinbenton@example.com,Home & Kitchen,61.84,2,2023-05-28,Cash on Delivery,Port Jessica
+b56f9938-6beb-4810-98cf-ffb129c72b44,Eric Haynes,michaelwagner@example.net,Health & Beauty,262.3,5,2024-04-20,PayPal,West David
+3ade7f16-039a-4040-81c4-b7a1d655a784,Stephen Zuniga,kevinpeterson@example.com,Health & Beauty,367.22,4,2023-08-06,Bank Transfer,East Paula
+8e4dc449-e260-4522-b36a-478ad0390827,Laura Blake,zdaugherty@example.com,Electronics,90.04,4,2023-05-29,Bank Transfer,Johnland
+cffee81a-01d0-45dc-8be9-f91dd74c4b4d,Heather Stevenson,callahanthomas@example.net,Books,393.33,5,2024-11-14,Cash on Delivery,Lake Sherry
+1750ad0b-4168-407b-b138-996e34cfcd3c,Amy Williamson,dwayne86@example.net,Books,147.61,5,2024-10-24,Bank Transfer,New Paulborough
+34ae993f-68dc-4698-86c8-6f1ecc06dab8,Jeffrey Thompson,kevinhanson@example.org,Books,239.37,4,2024-05-12,Credit Card,Moyerbury
+b29a26bd-5dec-4400-b07b-b6b5d2f72bc2,Elizabeth Johnson,christina32@example.net,Health & Beauty,325.22,5,2023-02-05,Cash on Delivery,Martinezmouth
+7ccb297f-8a84-41ee-84e4-35dafa53fd2b,Shelby Medina,pagesara@example.org,Books,243.07,4,2024-02-27,Bank Transfer,Kellyshire
+5d3a2c43-1839-487c-9a08-4f6f7a4e571d,Kimberly Arias,angelbrown@example.com,Clothing,85.05,1,2024-03-17,Credit Card,Wolfemouth
+c25e2e42-0719-452e-a97d-7ae6ec0f1777,Taylor Wilson,rodriguezalbert@example.com,Health & Beauty,314.83,4,2024-07-15,Credit Card,North Rebecca
+8b915c55-a7f5-4c71-82f4-9fe12ed6095e,Joyce Johnson,diane80@example.com,Home & Kitchen,354.68,4,2024-09-21,PayPal,New Jasmine
+2531083f-eb0a-4358-8708-f511356b45ec,Ashley Morgan,mcmahonmichael@example.com,Books,321.02,2,2024-09-22,Credit Card,Jenniferstad
+4febcfe2-c60b-495c-ab54-88ced7ee062d,Eileen Wright,alan83@example.org,Electronics,56.12,3,2024-07-11,Credit Card,Jenniferstad
+49f4bf19-d512-4288-beda-8d5550f4e463,Maria Best PhD,jessica46@example.com,Clothing,482.6,3,2024-12-07,PayPal,North Jasonfurt
+1efea5bf-f884-4d65-927b-26b9c9811ff7,Joseph Webb,pcaldwell@example.org,Electronics,362.63,4,2025-01-10,PayPal,East Lauren
+8f1d786e-51f0-47e6-a968-f8fef2a68c81,Juan Brown,vmcconnell@example.org,Home & Kitchen,424.4,4,2024-02-01,Bank Transfer,Tranport
+f17169dd-dc0d-4101-8024-78c7859d1c0d,Maria Carter,monica89@example.net,Health & Beauty,312.62,1,2023-03-06,PayPal,Whitakerville
+c24ad61a-66a3-496f-940e-b910a0e80a7f,Jonathan Smith,woodjoyce@example.net,Health & Beauty,137.2,3,2024-09-10,Cash on Delivery,South Jeffrey
+77665ab0-5a83-4101-9317-ac7e3a20d698,Colin Clark,andrew92@example.net,Home & Kitchen,34.16,4,2024-12-07,Cash on Delivery,Burtonburgh
+53bcb156-24c0-4008-9d7c-d930bb3a2fe0,Christina Haney,patricia13@example.com,Books,303.53,4,2023-04-27,Credit Card,Lake Emilyville
+a0a9e370-e1ff-41e1-9706-e3d484f40cc1,Lauren Logan,peterselizabeth@example.com,Home & Kitchen,244.58,4,2024-08-01,Cash on Delivery,Williamsfort
+214b0fb0-3f05-4d1f-a0bf-027bb60813cb,Laura Garcia,susanburgess@example.com,Health & Beauty,315.7,3,2024-04-30,PayPal,Jessicastad
+4211106f-fd0c-4614-911c-8079327b1eed,Jeffrey Thomas,rpacheco@example.org,Electronics,74.35,5,2023-03-14,PayPal,Jeffreybury
+d6ffcfd8-cb9f-4efc-b0c4-02a3ee706621,Miguel Taylor,meganperez@example.org,Home & Kitchen,338.17,3,2024-01-20,PayPal,West Markton
+6feec1d1-7fdc-4521-93c0-6630209e8d19,Katrina Powell,ryan82@example.com,Electronics,295.45,3,2024-12-19,PayPal,Melissafort
+cdd9d872-2f85-434b-a139-3279400c65b3,Kristin Johnson,gregoryhuff@example.net,Health & Beauty,13.02,1,2023-12-27,PayPal,Michelleshire
+a43ddd94-b67a-4e47-87c8-9c5d566e8850,Tamara Carter,cosborn@example.com,Electronics,298.77,2,2023-04-11,Bank Transfer,Pughshire
+e289129d-860c-4d56-ae67-3be70336a787,Calvin Ayala,wrightyvonne@example.org,Clothing,185.78,1,2024-10-01,Credit Card,North Crystalmouth
+a03e33e4-c55a-4d9c-a4da-c0efca5b17ef,Kimberly Martin,anthony56@example.net,Electronics,443.4,1,2024-09-03,PayPal,North Jennifer
+0d1a3a82-8cd7-48c7-99a9-eb5655504cc7,Helen Barrett,xlopez@example.com,Clothing,95.12,1,2024-04-18,Cash on Delivery,Lancemouth
+f013cca4-843a-46ad-b1e5-4f38ccf64ada,Anne Elliott,matthew47@example.com,Electronics,286.1,1,2024-10-05,Bank Transfer,Peterhaven
+ca12486f-c3ad-4260-90d1-c015b5337255,Cathy Knapp,zconley@example.com,Home & Kitchen,432.62,5,2023-05-31,Bank Transfer,Port Patrickchester
+5b784d2d-3cf5-42ef-986e-8cf1ff5ac80f,Joshua Flores DDS,brightbrian@example.net,Home & Kitchen,335.96,4,2023-12-16,Cash on Delivery,East Mirandastad
+7376bc57-83fc-4f88-a274-92d64da6da9e,Dr. Kenneth Sanchez DDS,charlesbush@example.org,Books,153.93,3,2024-05-17,Cash on Delivery,Davisland
+441ec516-145e-47b8-a4ce-ea93077bf1b0,Kathryn Love,wsharp@example.com,Clothing,373.23,3,2023-02-09,PayPal,South Melissafort
+63eab92f-1f63-40e7-bb39-a415fea2b0e7,Dylan Hall,andreajones@example.net,Books,20.0,2,2024-02-29,Cash on Delivery,Jessicatown
+deb73315-aa06-469c-aa20-30dac417c95e,Erika Harrison,williamsrichard@example.com,Electronics,278.85,4,2024-10-22,Credit Card,New Carol
+9b5965a0-40da-421e-8f8e-caa72ebef15c,Michael Ingram,aliciamedina@example.com,Health & Beauty,194.96,3,2025-01-11,Credit Card,East Andreaville
+764f41b8-55ec-4677-b15b-ec9e6abef623,Cindy Ortiz,kimlarry@example.com,Home & Kitchen,62.94,3,2024-08-18,Bank Transfer,Knightport
+f26539c4-0e6c-4278-b29c-475be3a9a3b1,Nicole Foster,christophershelton@example.com,Health & Beauty,393.95,1,2024-01-12,Cash on Delivery,East Thomas
+3f726ee6-14e2-48c1-a9d2-79cd71a68cce,Angela Morton,martinezjoy@example.com,Electronics,216.64,2,2024-04-20,PayPal,New Susanton
+2e0efaac-3f8f-43cc-8f07-655af09897a9,Daniel Murphy,frankdavid@example.org,Home & Kitchen,96.74,2,2024-04-15,Cash on Delivery,Martinezchester
+b81c659c-148e-4760-b363-97b550e193db,Katherine Harris,angelicastewart@example.net,Clothing,20.14,5,2024-02-22,PayPal,South Amy
+68d0fcd9-2eb9-42d3-9635-83af02547a01,Brianna Perkins,kingmolly@example.com,Books,441.88,1,2024-11-16,PayPal,Romerofort
+7d6bc76a-294d-4c89-b667-a178944c1d61,James Rivera,christinaturner@example.net,Home & Kitchen,116.09,2,2023-09-09,PayPal,Port Robinshire
+3bbe6e6d-2ec1-4903-9005-45ffa4e5c609,Jonathon Clark,hardingcrystal@example.com,Home & Kitchen,70.97,3,2024-09-24,Cash on Delivery,New Tyler
+3974ec36-f882-4cc2-89c9-9759717f65d1,James Carter,teresaortiz@example.com,Clothing,278.89,5,2024-01-26,PayPal,Garciaside
+209a96b4-4290-4464-8671-41843d7f8ffe,Brian Hicks,gallaghererika@example.net,Books,378.27,4,2023-08-24,Bank Transfer,Murrayport
+c0b51154-9534-41a3-aba0-c9a4bab24ca1,Alexander Garza,matthewphillips@example.org,Health & Beauty,176.76,5,2024-03-27,PayPal,North Alejandra
+2048b8c6-1b84-46d3-9a05-0ab29c84a174,Dave Coleman,mferguson@example.net,Books,262.92,2,2024-05-26,Credit Card,Tinaview
+88698922-ff3f-456b-8ff3-814e7c00e1fa,Christopher Holt,brianwagner@example.org,Clothing,216.62,2,2023-04-19,Credit Card,Stanleyville
+426a5f73-e71f-4797-a53f-8036ade0196e,Carol Pena,hmiller@example.net,Clothing,240.54,2,2023-04-06,Cash on Delivery,Port Nathanielchester
+ddb37e36-d77e-4ca9-8620-21c9bc3d1793,Anthony Schroeder,david03@example.org,Books,456.45,5,2023-05-22,PayPal,Johnsonland
+7fb3c023-1801-42bd-8585-004101a1c22e,Cindy Smith,davidjones@example.org,Health & Beauty,420.8,2,2023-12-06,Credit Card,Port Johnside
+b2481600-d2ec-43e4-829e-e846cf4f3036,James Miller,debrasutton@example.com,Health & Beauty,29.01,1,2024-03-12,Cash on Delivery,Scottchester
+ce1fa21f-1cef-4dbc-bb24-2fa8b509cb79,Dr. Joseph Mejia,guzmanshawn@example.org,Clothing,198.21,3,2024-06-06,Bank Transfer,Jerrychester
+0a4792ec-3fda-4524-84d7-8ce90bc95058,Madison Mora,johnsonmary@example.com,Books,125.96,5,2025-01-07,Cash on Delivery,Jacquelinechester
+7ef7d0fe-eafd-4f00-8585-f81b1a14bf4b,Michele Williams MD,lorraine39@example.org,Electronics,294.74,2,2023-10-28,Bank Transfer,East James
+aa443f10-c7a4-4fc6-9e64-92f3d70e346e,Tyler Mcconnell,yowen@example.org,Home & Kitchen,351.11,3,2024-04-23,PayPal,West Elizabeth
+3e7645ef-469b-47d0-9b78-9f53b145f454,Gregory Bridges,cholden@example.net,Electronics,181.77,1,2023-02-16,PayPal,Jonestown
+25f06955-dde5-4d57-a9d8-6a508468c21f,Kathleen Jennings,jessepetersen@example.net,Home & Kitchen,317.56,4,2023-04-17,Bank Transfer,Adamsland
+736aa5cc-49df-41e2-92b3-b405334166fd,Samuel Thomas,kennedyjacob@example.org,Clothing,177.96,3,2023-03-16,Cash on Delivery,Michellefort
+4dc6dbe3-a7e5-41e1-9779-2eeb0b5a21d4,Dawn Strickland,mark18@example.org,Home & Kitchen,460.37,1,2024-06-17,Bank Transfer,Collinsberg
+d9d9b8d4-3729-451a-96ea-2f2e181a32e1,James Miller MD,christiangeorge@example.com,Books,460.53,1,2025-01-04,PayPal,Hodgesberg
+21f93393-8e60-4703-b7d3-605c9e76411f,Mary Rice,norriskatherine@example.com,Books,431.93,2,2023-06-16,Credit Card,Bryanview
+4040b5ab-9292-4d15-b624-c09cef65d11d,Alexandra Sharp,pattersonkristina@example.org,Home & Kitchen,394.24,4,2024-06-15,Cash on Delivery,South Scottland
+9b851a42-3ea3-455c-adef-5a34c6c2e3ee,Tonya Ortiz MD,smolina@example.net,Health & Beauty,191.74,2,2024-10-08,Credit Card,South Jonathan
+1dab8c0d-deda-43a1-88af-cd741444e75f,Julie Hall,velasquezdavid@example.net,Electronics,309.76,3,2023-05-27,Credit Card,Gomeztown
+181b77b0-4e05-4872-84c5-5963e4cba254,Alexander Gonzalez,jdougherty@example.com,Health & Beauty,98.7,2,2024-12-27,Credit Card,Moorechester
+b99a16a2-aeaa-44d0-be0f-0867fee9e7cb,James Cunningham,dlewis@example.com,Electronics,158.5,5,2023-05-27,PayPal,Annamouth
+3c0461f1-c993-440b-ab44-8b3668ec6740,Miranda Turner,kmoore@example.com,Health & Beauty,407.34,4,2024-02-03,Cash on Delivery,South Faithbury
+3e15fc24-e07a-4960-a211-f9b1b421ecbd,Kristin White,kimharrison@example.net,Home & Kitchen,207.23,3,2023-02-23,PayPal,Simsfurt
+035dd35f-edc0-4d37-9b8d-93722f9bf7ae,Loretta Sparks,jeremiahwilson@example.org,Electronics,256.52,2,2024-08-19,Credit Card,West Steven
+d7d91b89-413b-4cbb-b119-982d9dd2c856,Cynthia Carlson,dana60@example.net,Home & Kitchen,182.79,5,2024-12-12,Credit Card,Rodriguezhaven
+b8a182dd-b840-4e45-9ca9-e5bc9e3a071e,Andrew Bentley,jackie43@example.com,Health & Beauty,178.53,3,2024-10-04,Cash on Delivery,Markmouth
+e7ca5987-0972-404a-bfc4-3c48213efa7c,Adam Diaz,thomascurtis@example.org,Books,334.21,2,2023-04-24,PayPal,New Sharon
+c05b5f23-9ae8-43a8-a627-b96a0c1b6d5e,James Ford,brendanbrock@example.org,Clothing,290.36,2,2024-01-14,Credit Card,Annmouth
+adc099f8-24d6-491b-b552-d92309587eea,Vicki Flynn,sandra26@example.org,Clothing,275.36,2,2024-06-21,Bank Transfer,East Barbara
+9c18a823-edfe-4a25-a347-39cce97a311c,Steven Henderson,qalvarez@example.com,Clothing,148.7,4,2023-03-09,Credit Card,Johnsonhaven
+2169edfc-7ecc-4b70-97f9-09a92d35970f,Matthew Norton,lindseycheryl@example.net,Electronics,346.75,2,2024-03-07,PayPal,Lake Lisachester
+f0c193e5-3a95-4a11-bdb4-d943c94df73f,Thomas Miller,swansontravis@example.com,Health & Beauty,356.09,1,2024-03-12,Bank Transfer,Barryside
+e35afdb2-be85-4df3-8648-e54f1b2d2dac,Rebecca White,nsanchez@example.org,Health & Beauty,347.07,4,2023-02-23,Credit Card,South Thomasmouth
+6c3ac69b-ff1d-4a18-9379-f897ba7a12ca,Michael Hill,victoria90@example.org,Home & Kitchen,473.25,4,2024-03-10,PayPal,Dwayneside
+3e442e60-908c-40e5-a072-defd4e92ad34,Aaron Bishop,ericbartlett@example.net,Electronics,178.02,4,2024-08-30,Credit Card,Rhodesland
+24f8638c-3b83-42f0-bd43-43b8842ee4bb,Sophia Cooper,elizabeth41@example.com,Clothing,278.06,4,2023-09-15,Bank Transfer,Jonesborough
+5bf27007-ff17-40ec-8c44-b9f34b03fd58,Andrew Rodriguez,charlesramos@example.com,Electronics,291.09,4,2023-06-06,PayPal,Amyburgh
+11c892e2-39e6-4f95-954f-dcc37f157609,Mark Kaiser,geraldgolden@example.org,Home & Kitchen,87.0,1,2024-02-18,PayPal,Brownburgh
+7372d26e-863e-4ba3-b97e-4541e1013aa6,Kenneth Crosby,yfrost@example.org,Health & Beauty,237.53,5,2024-04-19,PayPal,Janetport
+d413b26e-d0c9-4e0f-a631-1422ebd562d0,Brett Morgan,david53@example.org,Electronics,49.23,5,2023-09-04,PayPal,North Michaelville
+84b54099-be88-43f9-9d27-0b6477f2f18c,Peter Buchanan,lindarodriguez@example.org,Books,211.88,3,2023-06-17,Bank Transfer,New Christopherport
+cd7ed631-a311-444d-b7c3-29bf69f50f40,Heather Nielsen,lambertheather@example.com,Books,188.9,5,2023-10-11,Bank Transfer,New Darrell
+c86bbc09-14e5-47c0-872a-14ece8a97da4,Perry Stewart,melissawatson@example.org,Home & Kitchen,448.39,2,2024-08-11,Credit Card,Wilsonberg
+a1d34f40-b627-45fa-9fc7-61862e713f16,Shelly Fletcher,heatherbailey@example.com,Electronics,104.07,4,2024-04-21,Credit Card,Lake Mitchellbury
+b715a457-6e90-433e-909b-e925a1651016,Aaron Miller,uwiley@example.org,Home & Kitchen,432.41,1,2024-02-24,Bank Transfer,North Margaret
+27222123-f29a-4cba-b1bd-715b9116d0cd,Michael Case,csmall@example.net,Health & Beauty,159.78,5,2023-10-12,Cash on Delivery,South Tina
+0b56738a-b5d0-4958-8261-aa0563bc0685,Casey Hamilton,ynelson@example.com,Clothing,407.19,2,2023-05-22,PayPal,New Nicole
+6357ed26-1946-4fa6-9dd7-60b074ca03ad,Kristina Ford,danalam@example.com,Clothing,192.76,2,2023-02-08,Bank Transfer,North Jenniferchester
+f6d2748a-b717-4564-8f9b-c36ff309529f,William Sullivan,kenneth58@example.org,Home & Kitchen,237.13,2,2023-02-21,Credit Card,New Danielland
+d5d9931b-2dac-4ef8-8dec-a47d13ee7571,Ashley Jackson,bhartman@example.com,Home & Kitchen,241.07,4,2024-07-04,PayPal,Robinsonchester
+3d9c8951-21cf-4569-834f-4aeb1a84ff39,Michael Vaughn,kathrynwaters@example.com,Home & Kitchen,181.29,1,2024-07-12,Credit Card,South Paul
+798f1964-cf3a-42c5-94e4-a0ed21ad2033,Brian Myers,griffineric@example.com,Electronics,59.05,1,2023-10-05,Bank Transfer,Rodriguezport
+efb91590-56a5-4411-9650-cff0a9fc007a,Stephanie Gonzalez,angelabrown@example.net,Home & Kitchen,260.18,3,2023-07-23,Cash on Delivery,East Saratown
+3554c4b1-a9db-4b58-bbb8-94d1ce7edf8f,Brady Curry,mooresusan@example.com,Health & Beauty,38.58,2,2023-11-06,Bank Transfer,South Ryanfurt
+20c354ff-3a6c-48e5-9441-7a99496ce1b0,Joe Jones,kimberlywest@example.org,Electronics,148.15,1,2023-04-20,Bank Transfer,Port Franciscoberg
+589dd3a5-04d4-4177-8826-402de25e781f,Christopher Hooper,jameswatson@example.org,Clothing,179.95,5,2023-04-08,Credit Card,Greenport
+23eb1241-1b24-421e-b519-ca493f454d66,Jason Cunningham,taylor37@example.org,Clothing,301.08,5,2023-08-17,Cash on Delivery,Thompsonview
+ff64527e-ebff-4400-b85d-998bc9186855,Samantha Torres,uwillis@example.com,Clothing,45.23,5,2023-09-29,Cash on Delivery,Shepherdland
+f212105f-8188-4491-92f9-2dcd4699243e,Timothy King III,jenniferrobles@example.org,Health & Beauty,405.11,4,2024-10-15,Credit Card,West Bruce
+91a1d45e-c9ad-41a5-91a3-d79a0ce26877,Brittany Ward,thomasmurphy@example.org,Electronics,81.07,1,2023-10-02,Bank Transfer,New Timothyberg
+a7a8e11f-389d-41d7-9869-b746dbb384e3,Kevin Krueger,lisa87@example.org,Home & Kitchen,205.19,5,2023-05-02,Bank Transfer,North Lisa
+bc6940cc-d95c-4105-869c-14448839a193,Misty May,ericzamora@example.org,Health & Beauty,73.19,4,2023-11-17,Credit Card,East Brandonmouth
+a8a87fbb-b9f9-46cd-92c1-df045db55d21,Jeffery Gibbs,gonzalezkathleen@example.net,Clothing,211.94,3,2023-12-05,Cash on Delivery,Josephmouth
+94f5deb8-e64d-4015-8d5e-2a5b958266a4,Heather Campbell,davidking@example.com,Health & Beauty,305.49,1,2023-11-01,Bank Transfer,Owenfort
+478c68e0-f178-46e9-b3d5-399813d68479,John Erickson,phunt@example.net,Clothing,244.43,3,2023-12-31,PayPal,Veronicashire
+b953d070-aecc-4fe8-bb36-857200a7c5d5,John Jimenez,parrishmark@example.net,Electronics,287.28,4,2023-12-08,Cash on Delivery,Baxterstad
+72687fb8-a185-46ca-ab36-2772b7296c3f,Ms. Bethany Smith,sharongonzalez@example.net,Health & Beauty,432.07,1,2024-12-25,Credit Card,South Timothy
+4535b285-ffa0-42cc-b1e5-4db01d9636c1,Jennifer Turner,michael34@example.com,Electronics,163.37,1,2023-09-04,Credit Card,Gouldstad
+6b68d7b0-b6f8-4616-97ef-258a1b066e31,Karen Yang,mcherry@example.com,Health & Beauty,446.72,3,2023-05-29,PayPal,East Patrick
+6d1673af-be58-4988-b31b-a7d74ac983bf,John Harris,wstephens@example.org,Books,412.33,2,2023-03-15,PayPal,New Darrellstad
+24201c92-ccde-4876-8fee-54b96b485c87,Allen Moore,brownsarah@example.org,Health & Beauty,49.1,1,2024-01-09,Bank Transfer,Hendersonport
+c1b15e17-91aa-49c3-99ec-51a32f0d1278,Jennifer Carter,jhenderson@example.com,Home & Kitchen,247.48,2,2024-09-16,Credit Card,West Christieborough
+d3519b03-8905-4fe4-8ad3-ceb7fd2723dd,Juan Moses,zwallace@example.com,Home & Kitchen,17.82,3,2023-01-16,PayPal,Markfurt
+6736351d-2933-4fda-a0a9-f459303bd14b,Ryan Grant,josephcortez@example.net,Home & Kitchen,52.41,1,2023-12-09,Bank Transfer,East Christine
+025e2b7f-2e7d-4a2b-acea-e7666c6131be,Andrew Garcia,freed@example.com,Health & Beauty,118.03,4,2023-03-18,PayPal,West Jacquelineville
+b912a8d7-8035-4687-9eba-5739120b1361,Dawn Harvey,fosterhailey@example.org,Home & Kitchen,40.3,2,2023-12-02,Cash on Delivery,East Ernestburgh
+39f67baa-63d9-4d1f-92b3-bd28c337a81a,Joseph Walton,haroldcoleman@example.net,Electronics,309.99,2,2023-06-05,PayPal,Justinfurt
+de001f48-b511-497b-b89b-23dbf6439b32,Anita Davenport,toni86@example.org,Books,193.77,3,2023-12-12,Bank Transfer,South Nicole
+6bb374d7-84d0-48f6-9263-98cbbb3d7b6b,Mrs. Stephanie Middleton,pamela79@example.com,Electronics,112.54,1,2023-11-05,Bank Transfer,South Allison
+c24316d1-2537-4fd8-a97d-0814833f9e3b,Heather Perez,michael41@example.net,Health & Beauty,299.0,3,2023-08-08,Credit Card,South Marilynfurt
+6333da86-4bbb-4bc2-9d91-3edbe0d72341,Kevin Travis,sheppardmorgan@example.org,Clothing,495.58,2,2023-03-26,PayPal,Phillipland
+25156679-2b4f-485e-8807-6cb1fd090569,Jennifer Velazquez,kathryn95@example.net,Health & Beauty,38.57,2,2024-02-16,Cash on Delivery,Anitafort
+67ae92dd-a6bb-475b-a062-282a45dce841,Mark Woods,colemanmichael@example.net,Home & Kitchen,99.39,4,2023-10-23,Bank Transfer,Bullockview
+07f8de8f-e801-4b7d-b424-7df2249ad02a,Anthony Brown,johnsonanne@example.net,Electronics,34.62,1,2024-04-29,Credit Card,New John
+c4ba4d10-6cd2-4ca8-93b6-6d6e998e3480,Kim Wilson,bellmichael@example.com,Books,204.52,3,2023-09-18,PayPal,Ashleyberg
+317790ea-c919-48c6-af47-2748f852e3cf,Kevin Barrett,mayerkatelyn@example.org,Books,121.8,1,2024-01-07,Bank Transfer,Port Carrie
+33f6c47b-f532-4384-8bd8-1bbf5c4bb233,Derrick Hancock,lisabauer@example.net,Health & Beauty,205.32,3,2023-10-02,Bank Transfer,Troystad
+d40ce254-1a02-4d6c-84a5-2941f9648d6d,Barbara Reed,thomastimothy@example.com,Health & Beauty,329.48,2,2024-06-23,Credit Card,Port John
+03e7f2c6-67e2-4ea8-a22d-791507836dfe,Christopher Thomas,davisjason@example.org,Clothing,221.24,2,2023-11-23,Bank Transfer,Lopezbury
+432b132f-453e-456d-a941-d31c5b1acdf8,Alejandro Carson,robertromero@example.net,Clothing,277.74,1,2023-08-20,Cash on Delivery,New Stephenchester
+fe172bbb-8f3c-4d63-8a35-4cb23ca1114f,Austin Powell,esampson@example.com,Health & Beauty,271.09,3,2024-08-19,Credit Card,Willisshire
+d1fd9df2-1996-498b-9df6-dbf7bcc66452,James Jones,daniellejimenez@example.com,Clothing,448.94,5,2024-08-11,Cash on Delivery,Hallfurt
+493bf3b7-730e-481b-903f-278bcee29e8c,Karla Ortega,martinezjohn@example.net,Home & Kitchen,191.7,5,2023-12-29,Credit Card,Simmonsside
+d20be627-f48f-46f3-8cf0-adba1af6f1a2,Janice Reyes,peter77@example.org,Books,364.0,3,2024-03-05,PayPal,Newmanhaven
+bc64a69e-be6e-464e-a238-3f320e484e11,Kevin Herrera,amanda29@example.net,Health & Beauty,327.63,3,2023-10-05,PayPal,East Kimstad
+0ce4f42b-47bd-46e2-bc77-ed1d254269bd,Cathy Nelson,dsmith@example.net,Health & Beauty,88.27,2,2023-12-05,Bank Transfer,Lake Hayleymouth
+37be4118-b919-4d33-83db-d7d5b2a55b7f,Megan Gonzalez,elainediaz@example.org,Home & Kitchen,492.73,2,2024-06-27,Bank Transfer,Potterbury
+8752e5cd-8753-4d32-9430-7902bb9f0c06,Elizabeth Newman,kennethhunt@example.com,Books,370.53,1,2023-03-01,Credit Card,West Troyfurt
+39faf400-0bb2-47f4-9bb5-5250a4a27dbe,Robert Kelly,lawsonjason@example.com,Clothing,224.28,5,2024-06-17,Bank Transfer,Thomashaven
+6c2ebe1b-08c6-4d68-9530-ff3435c96730,Russell Lee,alexa25@example.net,Health & Beauty,207.87,4,2023-03-25,Bank Transfer,West Kelly
+670e613b-3522-49b1-8ad2-db7ae1eaeec7,Sheryl Baker,heather05@example.com,Electronics,359.18,1,2023-05-19,Credit Card,Lake Corey
+c3bd7cbf-b62e-42e0-8a56-0c1808b6dd60,Tommy Jenkins,dbrown@example.com,Health & Beauty,264.84,2,2023-10-07,Bank Transfer,Larsenchester
+50521d0e-7466-434e-897f-4a568308cf14,Alex Andrews,hectoryoung@example.net,Electronics,239.56,4,2023-08-22,Cash on Delivery,Lewisville
+2b286680-58af-4c04-8295-90c4d5bb187a,Jake Evans,fjohnson@example.org,Home & Kitchen,460.07,2,2023-07-17,Credit Card,North Joseph
+a60910c0-e4c3-4185-8da1-693736619bf2,Christian Rivas,sarah71@example.net,Books,10.59,5,2023-05-10,Credit Card,Gregorytown
+768fa764-37ce-4bc2-86a8-09e32acb4ce3,Daniel Romero,robert25@example.org,Electronics,437.94,4,2023-04-07,Credit Card,New Davidberg
+73fa18bc-9038-44f5-80d1-635daee8ae77,Robert King,rkaufman@example.net,Books,303.96,4,2024-06-07,Cash on Delivery,Ashleyhaven
+dfbbf2fe-70d3-48f3-97ca-b91d277512ed,Andrea Rodriguez,pmorales@example.com,Electronics,32.88,1,2023-08-03,Bank Transfer,Krystaltown
+0bf29ead-e5cf-4bad-b481-80b1fd12a578,Shawn Schmidt,mannnorma@example.com,Electronics,279.55,1,2023-01-28,Credit Card,Josephbury
+c428129c-d8d3-4f27-bb7c-9873ae7ba052,Johnny Johnson,victoria17@example.net,Home & Kitchen,126.99,3,2023-07-09,Cash on Delivery,Fosterbury
+51ea2656-ec38-4658-9c33-04f645173f49,Roberto Vaughn,martinezlisa@example.net,Clothing,209.25,3,2023-02-24,PayPal,New Danny
+97548888-6d2c-462b-94d0-931a6afd47a6,Joshua Douglas,eperez@example.net,Books,194.12,1,2023-06-16,Credit Card,Terriburgh
+9376415c-8567-4bd1-a9e9-c5af69fe9344,Joshua Kelley,lauren72@example.net,Books,131.29,1,2024-04-02,Credit Card,Garcialand
+bf730c99-3e78-44e8-8d8e-62c901ee3ae1,Robert Leonard,woodwendy@example.org,Electronics,433.23,5,2024-03-05,Credit Card,Turnerstad
+36caa824-5490-42e5-aa4b-494309d85212,Joseph Houston,william52@example.com,Electronics,470.3,2,2025-01-10,Cash on Delivery,North Johntown
+02fd3583-f414-4d18-a075-921e8951b3d8,Christian Davis,margaretevans@example.org,Health & Beauty,104.77,1,2024-08-25,PayPal,East Nicoleview
+3caf71d8-ba29-4496-ad8e-9790ebb6884a,Dr. Nicole Ramsey MD,megan57@example.com,Electronics,51.26,2,2024-09-26,Bank Transfer,East Douglas
+3bfcd1f0-13c9-4a56-8d7e-67692c3490ff,William Hines,karenbrowning@example.org,Health & Beauty,269.61,5,2024-03-20,PayPal,Lake Heatherfurt
+d1b7124a-783a-48e8-9e2f-c894834c7b99,Christopher Norman,lisaaguilar@example.org,Home & Kitchen,272.17,2,2024-04-09,Credit Card,West Alejandra
+8312dbe6-49e3-4de5-8a03-2bdc51178a3c,Linda Howard,ricky78@example.com,Clothing,462.95,3,2023-03-17,Cash on Delivery,North Joseph
+b2eeaa75-c22c-44bc-8bc2-acd9e86c9fef,Michael Dennis,castillodenise@example.net,Books,298.98,5,2024-03-27,Cash on Delivery,Changfort
+355c98bf-e9c4-473b-a213-3a916631b432,Brianna Howard,bgonzalez@example.com,Books,215.1,2,2024-07-09,Bank Transfer,New Scott
+a8327885-a778-4727-b550-0c425b83e50d,Connie Brown,ryan35@example.com,Home & Kitchen,27.15,3,2023-04-28,Cash on Delivery,Lake Thomaschester
+dffb2638-0677-4d76-90d3-f91e644f094b,Nicholas Ponce,ambercastro@example.org,Electronics,384.83,4,2023-12-25,Bank Transfer,Nicholemouth
+2dbfdede-bf98-4f6a-8c28-7f8df11c2747,Lisa Jensen,patrickbrett@example.net,Clothing,211.14,3,2024-09-22,Bank Transfer,Bakertown
+b69df5bd-be5b-4908-b309-34fa753510e8,Emily Roberts,richard05@example.org,Home & Kitchen,66.72,5,2023-06-23,Cash on Delivery,Lake Justinview
+f692c546-7ecc-49c5-963e-930daa591a39,Brian Chapman,eric34@example.com,Books,333.6,4,2024-07-02,PayPal,Ramirezport
+701b2ad9-f295-4d5b-b151-4b13cf57ff94,Samantha Hughes,kevinsanchez@example.com,Books,384.77,5,2023-04-05,Bank Transfer,Jessicashire
+bcc6865c-bde4-4a73-b6fa-b1b133a32e53,Troy Higgins,victor55@example.org,Clothing,238.59,4,2024-12-15,Bank Transfer,North Jessica
+f53c8394-6d39-4c2c-85ec-f5b52e308010,Shirley Murphy,schneiderangela@example.org,Electronics,493.64,2,2023-03-29,Cash on Delivery,Michellebury
+9ec30209-703d-4165-832a-4f91c0221afb,Carolyn Clark,davidoliver@example.com,Home & Kitchen,352.35,2,2024-11-20,Bank Transfer,South David
+25be9d1d-725b-42eb-af7b-efc8f922d374,Jennifer Guerra,crystal08@example.com,Books,450.21,3,2024-12-01,Bank Transfer,North Carolynhaven
+01c28682-70cd-4e22-8285-32fe4379d092,David Johnston,powellchristopher@example.com,Books,260.17,2,2023-06-19,PayPal,Carrieburgh
+5338b149-a5bc-4235-bbcf-5bff111c82d4,Cristina Sutton,fuentesrandy@example.com,Electronics,386.64,4,2024-04-26,Cash on Delivery,Elizabethchester
+6d84a039-a11b-4851-92a7-8ef5e9f27f77,Kimberly Rose,maryspears@example.org,Clothing,311.14,5,2024-03-21,Cash on Delivery,North Justin
+d8e1e0c5-7ad9-40f1-9e38-cde0749881d9,Anna Ramos,zoerodriguez@example.org,Clothing,429.58,4,2023-02-24,PayPal,Kristintown
+b25752d2-f17d-47fc-b535-87e8250155dc,Eric Collins MD,lewiswayne@example.net,Home & Kitchen,137.27,2,2024-12-24,PayPal,Caldwellchester
+d716c422-2925-4d1a-bf46-25ecce63e3c7,Sara Anderson,uharmon@example.net,Home & Kitchen,388.41,1,2024-05-18,Credit Card,West Deanna
+73721f0f-fe79-405e-8ae9-59b2e84f96f3,Luis Church,fortega@example.org,Electronics,163.38,4,2024-10-23,Cash on Delivery,West Samanthaburgh
+d401007e-b36c-46d4-ac20-72ddf1108cca,Christine Pineda,catherine68@example.com,Clothing,201.13,5,2023-07-22,Cash on Delivery,North Joshuaborough
+a35d0eca-369b-4212-b307-aa8e2efbcbe9,Linda Yang,vlynch@example.org,Clothing,153.38,1,2023-04-15,PayPal,Lake Tom
+abf8c142-4b86-45de-9c8b-ad6070594c45,Paige Kelley,karen63@example.org,Clothing,339.31,3,2023-05-03,Credit Card,Joelburgh
+efae5627-1e98-4bf2-a765-dd06940a2d7f,Zachary Burke,zbryant@example.net,Clothing,203.89,3,2024-08-09,PayPal,Brianside
+507a13da-768e-4e30-a186-4de74311cd6d,Megan Estrada,michelle16@example.net,Health & Beauty,252.27,3,2024-05-16,Credit Card,West Samantha
+7d5f240f-4d6a-4d7f-8168-c7eb0f4ecb50,Andrew Gallegos,aperez@example.com,Home & Kitchen,212.89,3,2024-08-01,Bank Transfer,New Christina
+80b8427d-459d-40c4-858a-53fd610099ba,Robert Salazar,murphymargaret@example.org,Health & Beauty,457.74,4,2025-01-03,Bank Transfer,East Rebecca
+51b34b98-8404-450a-81ef-a9219f288678,Roy Brown,obaldwin@example.net,Health & Beauty,425.63,2,2024-10-24,Credit Card,Chloechester
+c45ebb3a-76ed-40d1-bdd3-bb64b1f7fa97,Melinda Martinez,sheilashields@example.com,Electronics,281.11,4,2024-04-09,PayPal,West Amber
+f645dedd-8684-4c32-81a2-b851f6814ea7,Jason George,rachelzamora@example.net,Electronics,129.88,5,2024-10-25,PayPal,North Megan
+fd640545-8ad4-4708-9816-66758fa241d3,John Garcia,brownkatrina@example.net,Health & Beauty,450.41,5,2023-05-07,Bank Transfer,West Rachel
+14284830-0fed-4e21-89cc-305d4c8a6635,Andrew Andrews,ashleybriggs@example.com,Health & Beauty,102.65,3,2023-09-05,PayPal,Flemingmouth
+9b0efdb6-0767-4846-b8a4-98117789c46e,Gary Morrison,david07@example.org,Electronics,375.48,5,2024-07-13,Cash on Delivery,East Bianca
+0d667c81-e444-4b8b-ac26-fcd46e8fe195,Jon Vargas,martinkrista@example.com,Health & Beauty,263.74,2,2024-08-19,Bank Transfer,East Lindamouth
+9a3f1937-6964-4f5b-a73f-6e02de4f5ae5,Sarah Richardson,riveralauren@example.com,Home & Kitchen,392.47,4,2024-07-24,Cash on Delivery,West Michaelstad
+dee5a620-84c9-4ee2-908c-cfece68b04e9,John Cook,hblanchard@example.net,Books,254.79,4,2024-05-23,PayPal,Theodorefurt
+ca21fbe9-c723-4203-a3ce-eb55f35c68cc,Scott Williams,hrussell@example.net,Books,383.12,5,2023-09-16,Credit Card,North Nathanielview
+19a49329-be17-47ff-9658-fe5672644438,Matthew Wade,zlewis@example.org,Clothing,402.93,4,2024-04-22,Cash on Delivery,North Melissabury
+3c9419aa-191c-4723-902e-b4a0c1f7246a,Sharon Todd,summersbeverly@example.com,Books,316.77,5,2023-06-01,Credit Card,West Kevinland
+42214610-1a32-4568-af80-82ea3f7799ac,Michael Harrison,angelamorrison@example.net,Clothing,176.08,2,2024-03-22,Bank Transfer,Martinezshire
+0d1adef1-7aca-42cc-b926-892530e8b11a,Nancy Norman,krystal24@example.com,Electronics,353.59,2,2023-12-05,PayPal,New Maureen
+46f88a2f-84bd-460b-8982-5751855741a4,Tammy Luna,murphyderrick@example.com,Books,44.89,5,2023-12-04,Cash on Delivery,Smithton
+11b448a8-8ecc-4671-a5f0-87a672ebef9c,Jason Brown,melinda85@example.com,Electronics,168.89,2,2023-10-09,Cash on Delivery,Lake Joseph
+3c6c0b03-d98b-4520-a342-ea62a8bdb7df,Christopher Richardson,howard34@example.org,Health & Beauty,397.96,5,2023-07-08,Bank Transfer,Christopherborough
+5924201e-e86c-4b27-b694-01fe79ba03a0,Robert Russell,lewisveronica@example.org,Home & Kitchen,221.81,3,2024-09-24,Bank Transfer,Port Kirstenfurt
+263cda25-b6b5-4a95-816f-1ecafae9ff21,Alejandra Sanchez,paige82@example.org,Home & Kitchen,255.17,3,2024-06-07,Bank Transfer,Millerborough
+ce65a05e-c76f-4243-9f7e-f3d6354467bc,Carol Cruz,jhardy@example.net,Clothing,179.02,1,2023-12-08,Credit Card,South Nicole
+e902048e-d7c5-4fde-b75b-127eb4c39e1a,Dr. Jill Allen,adambates@example.net,Home & Kitchen,76.71,3,2024-06-30,Cash on Delivery,Bradleyside
+87c935f4-0c1a-497e-9fa1-3e297219f3a6,Jason Smith,eperez@example.com,Books,84.53,5,2024-03-10,Credit Card,Goodmanmouth
+e80c3770-550e-4115-82c9-5c110001563a,Ellen Garcia,melissawilliamson@example.com,Home & Kitchen,27.55,5,2024-01-08,Bank Transfer,Jasonchester
+9b0a1feb-9dcc-4772-89b3-48e8c5d5db33,Stephen Vance,vjones@example.org,Clothing,225.12,5,2024-07-21,Credit Card,East Stephaniefort
+9b036565-a85a-43cb-bcfa-f42039db8adf,Tyler Davis Jr.,parsonsjustin@example.com,Health & Beauty,148.42,5,2024-11-01,Bank Transfer,Boyerfurt
+147785ba-8415-4025-a65b-3d93319f542b,Angela Little,courtneymora@example.org,Home & Kitchen,389.23,4,2023-08-21,Bank Transfer,Port Hollytown
+bfb534ac-7106-4229-a47c-ecd32740b819,Sonya Huber,moorekimberly@example.org,Home & Kitchen,280.32,4,2024-02-19,Credit Card,New Dustinshire
+1cf02920-9798-48cd-a4ff-2b595fb8427a,Sharon Perez,jeremymills@example.org,Home & Kitchen,297.5,1,2024-11-23,Bank Transfer,Lake Davidmouth
+8ecaeccb-18da-454a-a251-d9fb70ceca6a,Michael Woods,kathrynharrison@example.com,Home & Kitchen,152.43,4,2024-12-27,Credit Card,Chadborough
+19da9d3e-4bc8-44c7-89d1-68e2b61b7230,Michael Colon,juliagillespie@example.org,Clothing,438.87,2,2023-06-03,Bank Transfer,Lake Joyberg
+87c31330-ca6c-44db-8cc7-6ad8f82230ef,Jeffrey Grimes,kimberly90@example.net,Books,371.61,1,2023-05-19,Bank Transfer,Jackchester
+d8343629-2cca-4684-83bb-9b6703b642be,Laura Wilson,jonesholly@example.com,Health & Beauty,349.5,2,2024-12-28,Cash on Delivery,West Elizabethside
+666bd11a-8346-44a9-88bb-471299a95cec,Cory Robbins,anthonyparker@example.com,Electronics,474.19,2,2024-04-01,Bank Transfer,East Kelseyville
+01542f1c-5d94-4c28-9df1-ab66a19a9ff8,Marilyn Thomas,cgarcia@example.net,Books,479.2,1,2023-04-04,PayPal,East Yolandachester
+5c22ed09-d8d7-4845-83d2-026c75b8c7f8,Sara Hart,arthurlara@example.com,Home & Kitchen,105.47,5,2025-01-07,PayPal,Stephaniebury
+46d19c81-9e7f-4c5d-a5bd-ec8970ae712e,Stephanie Black,jason81@example.com,Home & Kitchen,121.0,2,2023-03-30,Cash on Delivery,Jamesview
+0655475f-03f5-459d-8ea8-64f67858b6fb,Gary Fields,lindseypark@example.org,Books,67.23,1,2023-05-20,Cash on Delivery,Flowerston
+6d4b1104-87a7-4698-a773-e4eafaed4088,Nathan Porter,amber52@example.org,Books,435.51,3,2023-02-20,PayPal,Annebury
+f8d449af-69eb-45e1-9e90-d284a11538f9,Jesse Lowe,whitecrystal@example.com,Home & Kitchen,55.24,4,2024-10-08,Cash on Delivery,Alexischester
+48579261-d7f9-4241-9570-4132b1c465b0,Michael Mccarthy,xwilson@example.com,Books,345.6,1,2024-07-03,PayPal,East Jessicaberg
+322a4886-9dc9-42fa-bfb0-ef6643d88a9a,Terry Robinson,bobby95@example.com,Home & Kitchen,137.92,1,2024-03-23,Bank Transfer,South Anitafurt
+90ef2574-c5ac-4678-9eed-20c281893dae,Jacob King,dphillips@example.org,Health & Beauty,247.72,2,2024-05-03,Credit Card,New Rachelchester
+49c3d916-823d-4a06-ba6d-854fcbdd5486,Angela Foster,evansariana@example.com,Health & Beauty,421.71,1,2024-03-07,PayPal,Leeville
+afcbd629-6adf-4286-b706-88ff938c1591,Catherine Madden,boydamanda@example.com,Health & Beauty,451.04,5,2023-07-30,Bank Transfer,North Amandaton
+32f69227-17a1-499e-883c-3fff49f1c109,Rachael Burns DVM,schroederjason@example.com,Home & Kitchen,122.39,1,2024-03-01,Credit Card,Michaelfort
+ff9f30d4-de01-4048-97f3-8aaa643bf86f,Elizabeth Curtis,vgreen@example.org,Health & Beauty,370.29,3,2024-07-30,Credit Card,South Joseph
+3ba09792-de73-4b95-a0e0-71ab84df43e1,Jennifer Neal,sandy71@example.net,Books,324.67,3,2023-03-08,Cash on Delivery,Thomasland
+da0d8b66-7caf-4e24-8737-03983f83d8c4,Sharon Fischer,tsullivan@example.com,Electronics,437.39,5,2023-03-01,Cash on Delivery,Fordside
+2339f435-81f6-4f0a-932e-02c764265b3b,Brandon Diaz,pramsey@example.org,Electronics,10.93,2,2023-05-30,Bank Transfer,Jocelynshire
+4f57c963-369b-4540-b2bd-9e782182943f,Tammy Harris,michaelpayne@example.com,Health & Beauty,386.79,2,2023-12-17,Bank Transfer,South Garytown
+2c142c8c-85e1-4c95-a65e-b9752920fccb,Jerome Lee,ichristian@example.com,Home & Kitchen,399.01,2,2024-10-24,Cash on Delivery,East Patriciaside
+d9fb7123-9b84-4e82-93be-f01693371965,Deborah Wilson,marklopez@example.org,Books,229.33,3,2024-10-11,Bank Transfer,North Phyllis
+cc4281a8-20ac-4517-ab5f-a59dd3d7f5a4,Sharon Pearson,stacey02@example.com,Electronics,38.61,1,2023-03-23,Cash on Delivery,Pattersonton
+7e6fba9c-a945-4c4e-8155-e4f88f4b51f6,Rose Williams,kevin03@example.com,Books,337.71,1,2023-04-13,Credit Card,Rachaelland
+b3da6b78-bdae-48e6-91b0-af32f021c7cf,Robert Grant,bwashington@example.com,Home & Kitchen,299.22,2,2023-02-04,Bank Transfer,Hannahchester
+a10b6b44-c2bb-420a-abb2-f9c7973ec4ad,Greg Nguyen,millerbobby@example.org,Clothing,223.66,4,2024-05-16,Credit Card,Janetborough
+67aab2d7-65de-464b-a6d3-26484abd903e,Christopher Mcdaniel,prattphilip@example.org,Clothing,325.97,2,2024-06-23,PayPal,Melissabury
+187c529b-2953-46d0-b078-e12e4c2a9dbb,Kathryn Rodriguez,maryduncan@example.net,Electronics,330.36,5,2023-03-13,Credit Card,West Amber
+83960ba7-5fe8-44c8-9763-b9ebb58e4977,Susan Figueroa,steve48@example.net,Clothing,324.31,2,2024-07-09,Cash on Delivery,East Anthonyview
+6fe6610e-c990-4b5e-ab3e-2955a4a24e5b,Troy Mckay,zperez@example.net,Health & Beauty,419.02,2,2023-02-03,PayPal,Jennaburgh
+a7cd0981-a4cf-4db4-adfd-a4cf1e27dee5,Michael Mayer,ricedaniel@example.org,Electronics,263.36,1,2023-12-09,Bank Transfer,Port Susan
+43f3287b-75a9-475a-ad2f-c39de4ab1cee,Randall Olsen,riveramarcus@example.com,Home & Kitchen,217.39,5,2024-03-29,Cash on Delivery,Thomasfort
+8506a97f-d40a-4181-a696-49af30bff625,Mr. William Ferguson,michaelhernandez@example.org,Clothing,430.56,4,2024-09-22,PayPal,West Patricia
+32369587-1350-43b7-b9ff-28bb31859b63,Andrew Cox,barry78@example.net,Electronics,263.48,1,2024-06-19,Cash on Delivery,North Christinafurt
+810c1d4c-54a5-4536-92a8-925e5b25be80,Paul Lane,michellehudson@example.org,Electronics,271.51,2,2023-09-22,PayPal,Kingfort
+03142d0c-eb74-4c4c-af54-39ed4706e21c,Carla Ford,rodriguezchristopher@example.com,Home & Kitchen,265.1,3,2024-07-06,Credit Card,Catherinemouth
+41a64101-9f32-4f30-95dc-d11738b48a85,Thomas Andrews,mmartin@example.com,Clothing,440.43,5,2024-09-03,Cash on Delivery,Sharpview
+27103656-9c65-4d4a-8227-3a4ca8635f16,Jeffrey Gonzalez,jill20@example.net,Books,415.54,2,2023-04-02,Cash on Delivery,East Rhondaside
+e3523f8b-69e4-4b12-8194-87b8f29b993d,Ryan Nelson,michaelklein@example.net,Books,29.58,2,2024-07-04,Bank Transfer,Christophershire
+285f9ab9-d084-4722-a432-67c6d10ad578,Charles Thompson,vsmith@example.com,Health & Beauty,395.36,4,2023-07-28,Credit Card,Cindyton
+3446e96e-eb46-4b15-8482-96a6f4a8c2a1,Stacey Costa,rgarrett@example.com,Home & Kitchen,348.52,2,2024-12-10,Cash on Delivery,Zavalaside
+7bb58ca4-933c-487c-afe0-eebc39ac196b,Lynn Moss,rogermata@example.com,Clothing,83.45,1,2023-08-25,PayPal,South Johnstad
+344a1549-e7d4-4bb8-937e-2184ad08e00b,Leroy Owen,pettykristen@example.org,Home & Kitchen,28.37,4,2024-09-06,PayPal,New Angelfort
+f4c841ba-8805-4a9b-ac51-c05c3c66a02d,William Smith,richard84@example.com,Clothing,444.05,4,2023-11-08,Credit Card,Port Teresaside
+a8a8a106-c6a0-4bbe-9dbf-f6c8d767da74,Jerry Walker,gregory16@example.org,Clothing,119.18,2,2023-05-25,Credit Card,East Debra
+40e5876e-b326-4971-a19f-b9b27dacd4ac,Jose Coffey,vturner@example.com,Books,210.45,1,2023-09-29,Cash on Delivery,Brownstad
+392619f8-a196-47fa-ac48-4a56c1955a3a,Robert Hansen,tonyakennedy@example.org,Health & Beauty,449.32,5,2024-05-29,PayPal,Parkerberg
+3f3ce897-0517-4b26-b1a1-fc9c61061204,Aaron Cobb,jameswebb@example.net,Home & Kitchen,254.4,1,2023-01-15,Cash on Delivery,East Michaelborough
+105cfbeb-9a07-4cb2-9ff3-ed1929c297c9,Christina Hampton,james44@example.org,Clothing,120.41,2,2023-06-11,Credit Card,Lake Derek
+7c7ce333-1d65-46df-bbc0-116090faf155,Tyler Blake,erin77@example.com,Books,194.03,5,2023-05-24,PayPal,Millsland
+25ac9896-82f1-4291-adb6-53c55903e2ac,Kristina Berg,omcguire@example.org,Health & Beauty,109.71,5,2024-08-15,Cash on Delivery,South Kathy
+dbb3c5ea-2b9d-42bf-a092-d22446289578,Joshua Chambers,clopez@example.org,Clothing,391.85,4,2023-08-31,PayPal,Dylanmouth
+86fe0f94-da98-442a-901b-0ffdba4f311e,William Lopez,taralynch@example.org,Health & Beauty,344.42,5,2024-04-14,Cash on Delivery,Lake Kevin
+5c6c2b15-1e90-4e8d-bbcd-ba99ad461c64,Jimmy Martinez,wtaylor@example.org,Home & Kitchen,170.88,4,2024-12-05,Credit Card,Port Thomas
+832325a0-c6f2-471d-ad9b-f397d43d7c47,Juan Pope,owoods@example.com,Clothing,14.63,3,2023-11-27,PayPal,Odomhaven
+b5d87e22-c48f-49d3-b607-4871e7f1d518,Malik Lopez,paulawilliams@example.net,Home & Kitchen,194.95,2,2024-01-07,Credit Card,North Morganberg
+49d3e742-4e43-42ba-bba3-7f209513ea10,Michael Orr,johnsonshawn@example.net,Health & Beauty,454.52,4,2023-03-13,PayPal,Nathanielport
+4396442d-3cf1-4998-b13e-889950ba6330,Kimberly Alvarez,plindsey@example.org,Health & Beauty,47.65,1,2024-03-06,Cash on Delivery,Amandamouth
+cca9abd6-752b-46b3-a15f-34c9a1ebac53,Cynthia Watts,kimberly67@example.net,Electronics,449.04,2,2024-09-27,Cash on Delivery,South Melissafurt
+eb7e5dfb-d3da-4f16-8c58-e9642c5df7ce,Tina Williams,joshua91@example.com,Home & Kitchen,321.55,5,2024-07-08,PayPal,Wilsonside
+05666e1a-693d-44a3-ba45-ed03bdc1af3c,Brenda Gilbert DDS,alison45@example.net,Books,219.0,3,2024-01-31,Cash on Delivery,Brandonville
+fe3f6391-8928-479c-a176-73622d778a9d,Maria Garcia,johnnguyen@example.net,Health & Beauty,491.66,1,2024-05-15,Bank Transfer,Port Michael
+a431792e-697e-4a38-b002-b8b11fdf2bc1,Jason Murphy,juliachan@example.net,Electronics,458.32,5,2024-09-09,Bank Transfer,Webbburgh
+69ca75f0-9210-44ff-b26f-d94c52c64750,Sherry Hardy,mblack@example.org,Clothing,404.35,3,2024-01-18,Cash on Delivery,South Mark
+e1e212e9-6d5e-47d7-826b-a12516c561cf,Robert Berg,julielandry@example.org,Books,167.99,5,2023-12-01,Cash on Delivery,Ashleyville
+e359cbc7-26a8-4dab-945d-f7cc8a956589,Rebecca Davis,hallrandall@example.net,Electronics,473.1,5,2024-01-11,Cash on Delivery,Kristenbury
+7ad84509-3bf0-4e02-b1da-9cadf011f9c7,Kenneth Burnett,madeline47@example.org,Home & Kitchen,219.76,5,2023-07-25,PayPal,Lake Corytown
+62086388-9dde-4859-a673-50e22277996a,Lauren Allen,joshua18@example.net,Books,414.77,3,2023-01-22,Bank Transfer,North Nicole
+e838a929-1ff1-426c-a27e-7d6dd7011abf,Darin Marquez,kimberlylawrence@example.org,Electronics,210.96,2,2023-08-25,Cash on Delivery,South Samuel
+808fa7a2-90ff-47eb-a562-59404cf6154f,Natalie Sanchez,vgraham@example.net,Health & Beauty,393.73,5,2024-05-26,PayPal,South Steven
+03cf5bbe-d605-4fc5-b05a-3a712b5b3537,Daniel Robles,alvaradotimothy@example.net,Health & Beauty,442.34,4,2024-03-25,Credit Card,Port Leonchester
+7aede440-f103-475c-b489-4f23cd9a8d1a,Stephen Adams,mathew03@example.com,Health & Beauty,87.12,1,2024-11-04,Bank Transfer,Lake Carolyn
+e14944cb-3896-4daa-8f85-ff0c52ca8e6f,Mark Velasquez,david22@example.org,Books,122.97,5,2024-06-16,Credit Card,Smithfort
+4fdda2d2-d03c-4d67-86ba-a44f555cff4e,Miguel Mckinney,heather95@example.net,Books,84.22,4,2023-12-29,Credit Card,North Garrettshire
+9ba198a5-2074-40fb-893f-6aeabb81a722,Shelia Snow,twiley@example.com,Home & Kitchen,481.15,2,2024-10-21,Credit Card,Wagnermouth
+63229fb5-76a8-4b11-b28e-345b3a3a3ccb,Jessica Torres,gloria14@example.net,Books,367.21,1,2023-03-01,Credit Card,Erinville
+214777e2-e4e8-4d7e-b6b5-ecf855b024ea,Grant Rogers,thomaschelsea@example.com,Home & Kitchen,85.09,2,2023-12-20,Cash on Delivery,Williamsbury
+bf14c8ef-ec19-4ac3-a134-771a448a6b0e,Kelsey Holland,madeline95@example.com,Health & Beauty,464.0,3,2023-08-19,Credit Card,Port Royhaven
+8e614768-c1f9-479c-b5d1-839b76516673,Jasmine Vazquez,vponce@example.org,Clothing,303.92,5,2025-01-05,Bank Transfer,New Diana
+94bce45c-d7f1-41cc-bbf6-3d646f6638e6,John Hunt,thomasfernandez@example.org,Health & Beauty,161.91,3,2023-05-10,Credit Card,Jackhaven
+4bd1f7d5-4846-476a-b260-54bb2a603e1b,Janet White,holly36@example.org,Electronics,265.8,1,2023-03-04,Cash on Delivery,Avilafurt
+73fdfff6-7485-4dce-8d43-93a8bb38ab96,Cheryl Lloyd,james05@example.org,Electronics,30.25,2,2024-10-09,Bank Transfer,Lake Helen
+3778898c-7be4-4df2-9ee8-7abcd610a7a2,Melissa Freeman,xclark@example.com,Electronics,27.85,3,2024-08-18,Bank Transfer,South Justinfort
+b0e5a474-9afb-4e6f-9c6a-e4f1ba3e0c4a,David Wilson,atrevino@example.com,Clothing,345.86,2,2023-11-14,Bank Transfer,Whiteside
+6c67e865-14a5-48c5-88ad-cfb568e747e6,Gregory Blake,kelly93@example.net,Electronics,323.9,1,2023-12-21,PayPal,North Christinebury
+e640980c-d285-4609-838b-cc88342dad5c,Sergio Obrien,lance90@example.net,Electronics,145.87,2,2023-10-07,Cash on Delivery,Lake Michaelville
+ff932710-7644-408e-92c8-71350c5ef979,Justin Padilla,sfrancis@example.org,Health & Beauty,496.64,1,2024-09-25,Bank Transfer,Diazberg
+261ab915-3cac-49d1-b2c8-3edfa0d3f033,Angie Rowe,xcooper@example.org,Home & Kitchen,154.13,2,2024-09-19,Credit Card,Rodriguezborough
+378e9646-212b-4fec-8793-9f3bd4fe9228,Candice Hamilton,bradleyamy@example.com,Health & Beauty,314.3,5,2024-02-25,PayPal,Port Amandaberg
+6412cd49-a1f8-4142-b902-dfc3b1390e12,Joseph Deleon,mwebb@example.com,Clothing,487.09,1,2023-07-22,Credit Card,Barbaraborough
+f7c28a3c-fbdd-42a2-acac-622a56851351,Jeffrey Green,juliebernard@example.org,Books,53.22,5,2023-10-09,Bank Transfer,New Kenneth
+7e90116d-870e-4a6b-b6ae-0e4dd53e2c65,Ronald Johnson,hgutierrez@example.org,Home & Kitchen,174.83,3,2023-12-01,Credit Card,Blairshire
+0d2a6b66-0d80-4960-92ca-c22e42b7903f,Audrey Thompson,cruzbrandon@example.net,Home & Kitchen,87.51,1,2024-08-02,PayPal,South Isaac
+dc09a677-ae86-4a2b-b541-2597276c58a7,Jill Mcknight,lonniefrench@example.net,Clothing,354.26,4,2024-08-11,Bank Transfer,Brandichester
+15220915-50a0-4cf1-9e3d-ce7c37293fee,Denise Chapman,curtisramirez@example.net,Books,321.38,4,2024-01-05,Bank Transfer,Robertfort
+7d10aeed-e0b6-4da5-b974-0731534b8387,Christine Welch,theresayoung@example.net,Books,295.81,5,2024-11-14,Cash on Delivery,South Zachary
+9ce4e9cb-8869-4444-ab38-9c8a94accc11,Anthony Reed,ruizcarol@example.org,Clothing,259.62,2,2024-12-17,Credit Card,North Nicolemouth
+d1585e73-7244-43e0-912e-6e94ff776289,Melissa Adams,jburns@example.net,Clothing,422.1,5,2024-11-22,Bank Transfer,West Glennstad
+ca350ab8-2628-4459-9d57-645c9918714d,Joseph Wilson,kfoster@example.net,Books,470.11,5,2023-09-25,Cash on Delivery,Lake Crystalland
+2f4d8b1d-b2a6-44aa-abaa-a229ec6f32a7,Barry Wells,taylor06@example.com,Electronics,329.55,5,2024-03-05,Cash on Delivery,Fullermouth
+182052fa-e76e-47b4-8ae9-08b2639561b0,Elizabeth Conley,keithhughes@example.org,Health & Beauty,435.79,1,2024-01-18,Bank Transfer,Meganville
+f5f4560c-181e-4fdf-9138-507d58bc968b,Eric Callahan,burtonmichelle@example.org,Health & Beauty,73.16,5,2024-06-30,Credit Card,Carlsonhaven
+93a907d0-974c-4b80-be8c-6127ffed3e6c,Jamie Maynard,probinson@example.org,Health & Beauty,480.36,3,2024-05-09,Cash on Delivery,Nicholasmouth
+c71da34b-fa22-405a-bf5f-96fdaadbe5e7,Jamie Contreras,robertsonerika@example.com,Clothing,363.82,5,2024-01-08,PayPal,Derekville
+dbecb199-0c77-42dd-ad45-ed3d62593aa8,Laura Smith,tricia63@example.net,Health & Beauty,156.76,1,2024-06-12,Cash on Delivery,Christopherstad
+30209dbd-62fb-4a86-82f7-f44112e6b309,Hailey Wright,tracy20@example.com,Electronics,24.67,4,2023-04-23,Credit Card,West Taylorland
+489de5e2-42ff-4862-9dc1-f5043590b47c,Kelly Allen,dwhite@example.net,Clothing,210.95,1,2023-11-23,Cash on Delivery,Lake Christy
+021519ea-8a44-4dc3-a749-9bc9dd5f9d9c,Brian Cook,anthony41@example.net,Clothing,360.32,2,2024-08-17,Credit Card,East Matthewburgh
+db480991-08f4-4984-b998-0972ff83476e,Angela Santiago,zshaffer@example.org,Electronics,89.1,3,2023-10-16,Credit Card,New Kellyborough
+a62ec24e-91b9-44a1-8e44-c22c20a44035,David Jones,mpage@example.org,Electronics,92.01,4,2023-12-16,Bank Transfer,East Casey
+ee8c9c3c-0036-47d6-bb5b-24838e9ec4a0,Michael Vincent,josephmejia@example.com,Health & Beauty,195.15,3,2024-06-20,Cash on Delivery,Wutown
+77e3d573-9c18-44d7-8bc7-db67404cea20,Frances Brennan,sonyamanning@example.com,Home & Kitchen,239.79,4,2024-09-08,Credit Card,East Kelly
+48d19ae9-bde5-43d4-a3fd-0d47ab8f0eb5,Christopher Hays,cassandra53@example.org,Books,143.46,3,2023-09-04,Credit Card,Shelbyshire
+418b2539-9e0e-41b6-8b6c-d79574427217,Andrew Holland,andreajackson@example.net,Books,457.37,3,2024-08-23,Credit Card,Yoderport
+7d7f1d80-eee5-4394-901e-1a2127558064,Karen Rose,holly28@example.com,Home & Kitchen,305.9,3,2023-12-27,PayPal,West Caitlynshire
+7af2692b-0553-4adf-b1b3-943f2aafb7cb,John Salas,alanesparza@example.com,Home & Kitchen,277.82,5,2024-01-14,PayPal,North Rachelside
+171d5864-4a01-4e0e-9f16-a134185eed3e,Danielle Chapman,diazjohn@example.net,Books,280.12,5,2024-09-17,Cash on Delivery,North Kellie
+a755932c-cf3c-4dbf-bc54-83d906ee1f3e,Jerome Skinner,perezbrent@example.net,Health & Beauty,286.42,2,2023-05-10,Credit Card,Scottmouth
+0299801e-53f5-4883-a191-a71b2e18a53d,Tina Butler,donaldgarcia@example.net,Electronics,84.54,5,2023-10-25,PayPal,West Carlosstad
+cd5eb55d-ed74-4c40-8734-f82417ba15bc,Jeffrey Hampton,heathercampbell@example.net,Clothing,80.53,3,2023-10-31,PayPal,Davisview
+24adf1bc-a471-40d0-b6c2-0711d982c419,James Moon,evelyn29@example.net,Electronics,362.05,1,2024-12-13,Bank Transfer,Martineztown
+8a0f5cd1-3486-4a27-8ae7-052f1f53be83,Marie Perkins,rmckenzie@example.org,Electronics,86.01,5,2024-05-23,Credit Card,Traciemouth
+4b1ca4d9-b32d-483c-8a6c-40f96d2dd376,Daniel Wiley,lisachavez@example.org,Home & Kitchen,297.47,2,2023-05-23,PayPal,Christopherland
+730ae9b4-fc5c-464a-bb7b-0329f6670b48,Randy Hernandez,nguyenmichael@example.com,Books,100.25,1,2023-08-19,Cash on Delivery,West Jacquelinefort
+204ace59-af29-496c-8a57-3ea00c44b8be,Stacey Riley,luke75@example.net,Clothing,437.63,1,2024-04-09,Credit Card,East Lisaberg
+03a9ef88-06bf-4228-8077-5d9ca74640ac,Brandon Lee,williamschristopher@example.net,Books,486.72,3,2024-12-10,Bank Transfer,New Christopherport
+2f60e7cc-07f1-4487-b602-b1d85073e429,Melissa Dawson,stephaniejames@example.org,Clothing,354.47,4,2023-08-10,Cash on Delivery,East Lindaberg
+7204aff7-8ecc-41e1-9e11-dbf504881c04,Maria Bennett,scottgregory@example.com,Books,261.49,2,2024-06-24,PayPal,West Shawn
+b6407fd9-9b69-49ce-a2a0-a4f418e61c64,Madison Holmes,james43@example.com,Electronics,40.46,1,2023-03-28,Cash on Delivery,Kathrynshire
+37436dcb-46f4-452a-b156-1d0d701af4d3,Jose Williams,jacob69@example.com,Home & Kitchen,282.51,2,2023-10-03,PayPal,Hernandezmouth
+e44e3d17-0d08-4d33-9833-7840488a6a1d,Ronnie Robles,dakotahernandez@example.net,Home & Kitchen,450.52,4,2024-10-19,Bank Transfer,Amandaburgh
+6b1d0d50-2e89-4515-9c30-6ee553491b6b,Angie Becker,smithjohnny@example.org,Health & Beauty,499.77,2,2024-03-29,Credit Card,Stoneborough
+5840ccad-aea0-4270-88fe-294940083654,Connie Thornton,qwheeler@example.com,Clothing,478.14,4,2024-09-13,PayPal,Kimfort
+931db08e-95ee-4914-9b85-85ed4f9b0015,Zachary Duncan,nsnyder@example.org,Clothing,321.61,2,2024-05-07,Bank Transfer,Moniquemouth
+4dbb6644-cafd-4c50-b5fc-2a1b1abe9096,Elizabeth Faulkner,patelrobin@example.com,Clothing,106.24,5,2023-12-12,Credit Card,Rickyport
+c26637b6-105b-4c16-8bb8-a42995ffa3c3,Whitney Brown,jesusnorris@example.org,Clothing,407.2,3,2023-10-16,Cash on Delivery,West Jamesshire
+9b4ebd9b-734e-4700-af93-9220b74fe6e3,Raymond Cohen,markjones@example.org,Books,337.09,3,2023-07-04,Bank Transfer,Westchester
+7b376ced-47fa-4e58-b1f1-b0b528bf2299,Isaac Harris,abigailjames@example.net,Electronics,444.46,3,2023-07-18,Cash on Delivery,Willieville
+714e98e5-a956-4359-b7ba-98ba4c7e42ab,Corey Mitchell DDS,tjames@example.com,Books,181.06,5,2023-04-09,Credit Card,West Dawn
+d7b66e59-6ebd-49af-9446-0da542da5f06,Alisha Evans DDS,tcarr@example.net,Books,152.87,2,2023-06-17,Credit Card,West Robert
+05f439f8-3497-4ce0-bda4-ad2ad0b84454,Daniel Bradley,robyn76@example.com,Home & Kitchen,152.99,5,2024-11-27,PayPal,West Ashleyshire
+dc6525b6-d611-4493-ae8b-5c2f6e94709f,Jacob Molina,scottlisa@example.com,Clothing,446.09,4,2024-03-02,Credit Card,East Jeremyhaven
+8c78a617-d2ed-4662-84b0-92a5a8ee9388,Jennifer Ortiz,ucampbell@example.org,Electronics,186.22,1,2023-04-10,Credit Card,West Kristin
+d66c9cd8-28c3-4966-90d8-59fea4dc565d,Melanie Howard,snyderjulie@example.org,Books,37.09,3,2024-08-23,PayPal,Burgessside
+19678d78-2dd3-4ffb-87da-189092d9a5d3,Tyler Aguilar,coreywright@example.net,Health & Beauty,166.89,4,2024-09-29,Credit Card,Timothybury
+a8274c09-c162-4697-a620-6be2c48cf5b8,Willie Watson,calebmiller@example.net,Clothing,423.37,1,2024-11-26,Cash on Delivery,Jamesfurt
+a82c4622-8268-4a30-a1de-40d5f68afebc,Jessica Hoffman,gjohnson@example.net,Clothing,395.18,4,2024-04-21,PayPal,Heatherfurt
+026abe2d-daf0-4fba-85c9-a1528cc17bd8,Shannon Norris,brownsheri@example.net,Health & Beauty,370.25,3,2023-11-26,Cash on Delivery,South Alice
+e0265c38-a4c0-4d80-aa6c-8e984ab0afdb,Nicole Graham,davidballard@example.org,Books,189.52,5,2023-05-23,Cash on Delivery,Michaelmouth
+c0967e04-2a3d-4677-8e46-c1d1f5b047b2,Angela Romero,juanzimmerman@example.com,Electronics,297.37,3,2024-04-20,Cash on Delivery,New Angela
+88e27873-7331-452b-9404-cd25efc31338,Steven Allen,simmonskristen@example.com,Clothing,295.19,5,2024-07-20,Credit Card,Port Gary
+5d745de5-a247-4816-adb2-fb253f817551,David Lowe,jonesdiane@example.org,Books,111.26,5,2024-05-01,Bank Transfer,North Heatherborough
+e7c24a49-ccd0-4f7d-b318-ab3319431cda,Amanda Castaneda,fvance@example.org,Electronics,30.08,5,2023-09-20,PayPal,South Jennifer
+cdb43155-8893-4ed8-adff-bb74d219ef38,Zachary Perez,rmiller@example.org,Home & Kitchen,131.87,2,2023-11-10,PayPal,New Sheilaport
+a7f2bcac-c60c-4513-a32b-ae4cad67e0f1,Christina Rodriguez,mtaylor@example.com,Home & Kitchen,328.32,3,2023-04-22,Cash on Delivery,West Daniel
+f502ff06-3e7a-4a0f-99d9-e5fff84f3898,Ashley Walsh,patrick44@example.net,Clothing,70.31,3,2023-12-08,Bank Transfer,Jonathanmouth
+c71d8832-6a1c-4329-a037-4e67b873726b,Mark Neal,hudsonjoseph@example.org,Electronics,68.11,5,2024-10-18,Credit Card,Bergerfurt
+990b3a25-b33b-412e-ac43-cb6d0d29718f,Heather Stewart,jjackson@example.com,Clothing,388.14,5,2024-05-15,PayPal,New Jefferyburgh
+ae62c109-2fdc-418f-b3a6-6e44c0f09391,Christopher Ross,smithemily@example.com,Clothing,143.41,5,2024-06-06,PayPal,Jeremytown
+17488248-9886-47b6-82a5-b21c4012840d,Elizabeth Garcia,tammyguerrero@example.org,Books,258.96,1,2023-09-12,Cash on Delivery,Jamesfort
+e0854ddd-72a6-4365-96df-705d1f02a3a6,Joseph Peterson,lee09@example.org,Clothing,496.43,1,2023-06-10,Cash on Delivery,Samanthaborough
+aec9d134-f324-4538-8315-312d024d90c5,Amanda Moore,gonzalezanne@example.org,Clothing,476.1,1,2023-01-14,Cash on Delivery,North Michaelfort
+be37d005-6b6a-488a-b0a6-99e812b6aeff,Anthony Brown,michael80@example.net,Health & Beauty,233.77,4,2024-02-01,PayPal,Port Jessica
+a17ff283-67ff-4e91-8817-e869098f530c,Kelly Cannon,smcdowell@example.net,Health & Beauty,263.09,1,2024-10-17,Bank Transfer,East Jeffreyport
+df533bfa-8613-47a6-8e47-cfce3e31b707,Tracy Sandoval,andrea40@example.org,Health & Beauty,316.12,3,2024-03-06,Cash on Delivery,East Christopherfort
+5f6b0bf0-1c51-4024-bada-4e598ee6ca53,Jason Flores,umcdonald@example.com,Books,240.39,1,2023-10-25,Bank Transfer,Margaretberg
+f669257b-e8a2-42eb-b06d-5e102a435ea1,Kimberly Hickman,rrogers@example.net,Health & Beauty,206.85,4,2024-05-30,Cash on Delivery,Elliottborough
+22ae7de0-d822-40f0-b103-c99b6031d5a5,Heather Guerrero,tcruz@example.org,Books,23.51,1,2024-11-10,Bank Transfer,New Dawn
+430d70ac-7cf1-4b84-aea3-103488798e2b,Mikayla Smith,lambertwilliam@example.com,Electronics,138.83,2,2023-01-26,Credit Card,New Charlesland
+be9fd45a-adea-498a-ba93-6718d4931f83,Cassandra Smith,xmartinez@example.com,Clothing,329.13,1,2024-05-26,Bank Transfer,West Vickie
+1f77d3d5-63b9-4331-a80e-9ac4594c99e5,Angela Stark,justin30@example.com,Home & Kitchen,111.7,2,2024-11-09,Cash on Delivery,Port Megan
+392d37c0-e466-409f-9852-8094a808860f,Sarah Gilmore,madams@example.com,Electronics,143.81,4,2023-03-30,Credit Card,Adamsmouth
+332e4570-77d3-4f17-8c67-cb9f32b5e4f7,Justin Blankenship,nathan05@example.org,Books,145.16,4,2024-03-03,PayPal,North Elizabeth
+e5210a54-7287-43f9-ae18-3b06c78fce31,Michael Zimmerman,tmelton@example.com,Electronics,46.44,5,2023-08-18,PayPal,Kimhaven
+b226f9dd-4808-4f0f-9197-f5275542839a,Paige Arroyo,yolanda47@example.com,Books,326.89,4,2024-01-23,Cash on Delivery,Harperton
+cd7a588d-4d62-4672-9363-0d556f8a6836,Julia York,johnsoncindy@example.net,Home & Kitchen,267.71,4,2024-04-22,PayPal,Lake Caroline
+69ab1ec7-6774-4c53-8baf-7240b9cb8f6a,Lee Jordan,humphreyrandall@example.net,Health & Beauty,361.97,1,2024-05-01,Credit Card,West Joseph
+5d1c3af8-e1d5-460c-b1d9-914b558151fd,Rodney Bush,harttaylor@example.com,Books,225.73,2,2023-03-04,Bank Transfer,North Stephanie
+1e8eaac5-63b2-43e2-af70-3a0d42a2a81b,Scott Brady,thomaskidd@example.com,Health & Beauty,356.14,1,2023-10-23,PayPal,Mathewview
+97b36a57-4fd2-46a9-a5ca-1b4aee4047ad,Joseph Clayton,byrdmatthew@example.com,Clothing,44.67,4,2024-08-20,Cash on Delivery,Port Annestad
+72238f16-1906-4170-9c0a-2cd94553d1c5,Laurie Hernandez,mullinslawrence@example.org,Books,331.11,2,2023-06-09,Bank Transfer,South Taylor
+531cb8b2-0616-47cd-b862-91a572f1cc95,Daniel Estrada,marcusstrickland@example.net,Books,324.4,5,2024-08-06,Bank Transfer,Julialand
+9f7749b9-9ec3-400c-8fd7-2aece73653fb,Kayla Shepard,mullinscorey@example.net,Home & Kitchen,95.94,4,2023-05-13,Cash on Delivery,Zacharychester
+c3da1ada-3677-4acb-a07c-2f6f0d00b580,Steven Wood,danaskinner@example.com,Clothing,436.76,2,2023-10-01,Credit Card,Lake Lisaberg
+c4e4b154-ad92-487a-b1d3-36769ec1e451,Kathy Greer,qrobbins@example.org,Books,283.02,5,2023-09-09,Bank Transfer,New Kelseychester
+78259623-174c-4721-a178-1a1e9354208d,Drew Garcia,aharrison@example.com,Electronics,373.13,4,2023-04-19,Credit Card,Davisbury
+32f9422a-0976-4bb6-b3fd-16a259217181,Samantha Torres,bthompson@example.com,Books,351.82,1,2023-04-09,Cash on Delivery,North Debbie
+68733d69-4a54-4b12-9455-5f350a63ad3f,Maria Johnson,david45@example.net,Home & Kitchen,490.66,1,2024-01-09,Credit Card,New Jaimehaven
+bfa282bf-92ee-4ffa-9244-f8a7fdab5e06,Tyler Ellis,ianwilliams@example.net,Health & Beauty,321.36,5,2023-08-25,PayPal,Nguyenland
+e73bce59-9826-45f8-9778-0f7797b8acfa,Donald Williams,funderwood@example.com,Electronics,401.3,4,2024-12-02,Cash on Delivery,East Emilytown
+dda88dfd-bec8-44bc-835e-9c3ed2533cab,Rose Gomez,hpearson@example.org,Clothing,340.54,5,2023-07-22,Cash on Delivery,East Juanmouth
+a52a10eb-c38c-4624-96cc-091d82cdf782,Eduardo Pruitt,matthewcompton@example.com,Clothing,55.36,5,2023-11-06,PayPal,Port Jefferyborough
+b630c8f2-5e25-4012-976d-d4a5b4f91c80,Michelle Cline,tanderson@example.com,Books,163.67,2,2024-05-18,Credit Card,Hernandezshire
+ec3685b6-f5b0-4d6d-8185-ef124ebcd300,Kyle Leon,ryanbennett@example.org,Clothing,344.09,2,2023-09-10,Bank Transfer,Harmonstad
+9b074b68-314b-481d-9960-e18ba53eab28,Stephanie Turner,mcdanieldaniel@example.org,Home & Kitchen,394.39,2,2024-11-26,Cash on Delivery,Stevenshire
+6a4bbf6e-27b8-4c8f-96fb-48ba61418ae1,Corey Butler,zellison@example.org,Health & Beauty,289.78,1,2023-10-25,Cash on Delivery,New Kevinmouth
+6d6e20a1-4978-4615-a8b7-01cf7049f3ac,Brian Schultz,natashameyer@example.com,Electronics,77.75,5,2024-11-11,PayPal,New Meganport
+02327e52-0881-4688-91d0-3a61b8fa5a96,Shane Manning,garciamichael@example.com,Books,292.97,1,2023-02-08,PayPal,Lake Steventon
+4a72b1b5-a609-4689-b1ea-1d0bfde01698,Robert Smith,alfred13@example.org,Books,370.94,1,2023-11-30,Credit Card,West Aaron
+b4fcecc3-d4a9-4b2e-8fb1-a9f87ea22985,Lee Velasquez,megan89@example.org,Health & Beauty,413.67,2,2024-05-09,Bank Transfer,West Steven
+b8cb4e3d-d88c-46bf-aa53-3c0053def02c,Michelle Armstrong,whitelawrence@example.com,Home & Kitchen,319.72,2,2024-12-05,PayPal,West Jenniferchester
+770959b6-0060-4552-b66b-c2804e908f68,Becky Willis,sestrada@example.org,Books,145.51,1,2023-08-04,Cash on Delivery,Guerreromouth
+8a92d5d8-c310-415c-92d9-7d3f4a82dc21,Jennifer Mcmahon,cbrown@example.net,Health & Beauty,421.18,3,2024-10-18,PayPal,Ramostown
+bea675dd-878e-4a66-9e21-70d36b9c4a76,Dr. Rhonda Johns,laradebra@example.org,Home & Kitchen,342.7,4,2023-10-22,Cash on Delivery,Lake Lawrencemouth
+6d2db449-c1dc-4977-9f25-67167ba37afa,Kristen Briggs,tony53@example.com,Books,97.51,5,2023-09-23,PayPal,North Mark
+a6274568-9123-476f-8f0b-8631e82d0089,Kristen Kirk,cody45@example.net,Clothing,79.71,2,2023-04-01,Cash on Delivery,Murphyland
+2c14887d-6e45-400e-b87c-fab1d13ff25b,Jeffrey Mora,brian11@example.net,Health & Beauty,22.65,3,2024-11-22,Bank Transfer,New Samanthastad
+470da5f4-5fc2-45b8-815e-4cd5e9686a37,Laura Garcia,jenniferwoods@example.com,Electronics,53.22,4,2024-03-17,Bank Transfer,South Brent
+f07d504f-7d46-4f75-a2ad-ed2365cee54e,Frederick Poole,melanie51@example.net,Health & Beauty,459.23,2,2024-11-13,Credit Card,North Christopherville
+398af431-d4b7-4913-af82-237da009800b,Taylor Smith,michael02@example.org,Books,496.89,3,2023-02-07,Cash on Delivery,Burnsshire
+b703fc53-67ad-4167-95f5-7fd8aa3397f6,Ashley George,bschneider@example.com,Health & Beauty,249.53,2,2024-12-03,Bank Transfer,Simpsonstad
+f7e65c91-ad94-47d6-bed5-535d891ba771,Shaun Evans,christy01@example.org,Health & Beauty,212.29,5,2023-08-12,Credit Card,Paigehaven
+2ffb2986-c181-4074-9804-0ecc333fcaeb,Kelly King,prussell@example.net,Home & Kitchen,36.88,1,2023-12-23,PayPal,Shortburgh
+486c8a8a-d6e9-4362-b055-97e97deae3b2,Matthew Gonzalez,owilliams@example.org,Clothing,181.79,2,2023-01-30,Credit Card,Lopezmouth
+45c058f1-6740-44c9-8fb7-2af8c584bf9a,Michael Cummings,theresavazquez@example.net,Home & Kitchen,317.65,1,2023-06-22,PayPal,North Ronald
+3d4c9f35-4cdb-467c-8904-c08050f41729,Doris Murillo,jennifer40@example.org,Home & Kitchen,186.93,2,2023-04-22,Bank Transfer,Joneschester
+a0293c8c-cfae-4659-a31b-7f2786cb1e4e,Nicole Jones,margaret52@example.net,Books,326.4,2,2023-10-14,Bank Transfer,North Cherylberg
+536d1f16-36d2-468e-a2e0-3d565f34c731,Melissa Strickland DDS,collinscarl@example.net,Home & Kitchen,117.23,2,2023-02-05,Bank Transfer,Hernandezbury
+f8f23097-ac89-4135-885a-ca14c1906794,Keith Garcia,daniel94@example.com,Books,297.91,5,2023-02-03,Credit Card,East Garyhaven
+7c2f3492-0faf-4e6b-9181-bf8468dbd595,Andrew Bernard,elliottzachary@example.net,Health & Beauty,84.78,1,2024-10-24,Bank Transfer,Weaverton
+cd6a6147-1a20-4d5c-b145-d8363e70a5a6,Jesus Walker,harrellmonica@example.net,Home & Kitchen,184.32,4,2023-06-26,Bank Transfer,New Jeremyborough
+5ebe4c64-04d3-40d2-a3e8-f1d168a2de93,Yvette Watson DDS,allisontapia@example.com,Electronics,14.31,3,2023-06-15,PayPal,Schultzmouth
+2e221fcb-5670-49a9-8ad4-107a1b64cfd2,Corey Larsen,michael49@example.net,Books,211.64,4,2024-05-24,Credit Card,East Sheilaberg
+efee1c2d-c1a0-40c5-93ae-c23fef8380d4,Kimberly Lopez,owright@example.org,Clothing,138.02,2,2023-03-08,Credit Card,Michaelmouth
+09596493-4a5c-42c6-a7de-f1c7bbd0a556,Hannah Weiss,mchavez@example.com,Electronics,210.58,2,2023-12-05,Cash on Delivery,Richardburgh
+2694e4b2-74c2-4edf-9f3b-9f9ccf11e11d,Ronald Moore,justinmartinez@example.net,Home & Kitchen,345.92,1,2023-11-18,Credit Card,Cookstad
+45b909af-ac64-494b-aa64-51029e6f74d4,Krystal Alvarez,david01@example.net,Electronics,232.76,2,2024-01-15,Bank Transfer,Gonzalezberg
+0fe2f7db-f75f-4862-8320-bed056d5e17b,Mary Garcia,crussell@example.org,Clothing,222.36,4,2023-05-15,Credit Card,Port Patriciatown
+abaa46b5-93b7-476a-84ec-c8ba0a1cbe78,Kerry Hayes,jperez@example.org,Health & Beauty,340.5,2,2023-01-21,Bank Transfer,West Davidmouth
+631d5374-2bf9-4297-9640-368effbaedd8,Melissa Austin,smithandrea@example.org,Clothing,134.6,3,2024-04-23,Bank Transfer,South Christopherfort
+76517675-6aca-47c8-9871-a9fe10a37cf3,James Mcneil,eharrison@example.com,Home & Kitchen,184.98,2,2023-03-17,Bank Transfer,Grahamburgh
+01bcdfb1-149d-4bc4-a230-921cf36ed5e5,William Anderson,thorntonchristina@example.com,Books,238.99,3,2024-05-19,Cash on Delivery,Schmittmouth
+7f8a5fa5-a327-4003-9188-6f230583784e,Lindsay Rodriguez,littlejose@example.com,Home & Kitchen,364.48,2,2024-03-27,Bank Transfer,Hillmouth
+5bd2b65a-0859-4dae-b341-08fceb7a201e,Bradley Maddox,thomasjohnson@example.org,Home & Kitchen,399.81,4,2024-04-25,PayPal,Susanborough
+c9ccf69f-0e00-4047-a551-cc5c617a4bd4,Julie Sharp,micheledaugherty@example.net,Electronics,495.32,4,2023-12-02,Credit Card,New Robert
+4b87a114-9523-411e-aef9-3be14eb892ba,Anita Dunn,tromero@example.net,Health & Beauty,200.86,4,2024-08-18,Credit Card,East Rebeccamouth
+71ebca47-987b-4375-9f0d-2ce3e92fc1eb,Ms. Kristen Jones MD,ashley77@example.org,Home & Kitchen,194.5,1,2023-05-01,Cash on Delivery,South Sarahfort
+1d9897dc-a5fd-4b25-b125-12cf9137ebea,Stephanie Dominguez,michael22@example.org,Health & Beauty,286.94,3,2024-02-19,Credit Card,Joshuastad
+2d886176-aa5b-4503-8bb4-65e0704dc4ad,William Arnold,lindsay47@example.net,Health & Beauty,40.04,1,2024-07-13,Bank Transfer,South Pamela
+80846dce-e0a1-4663-8c00-5c948aadc7ce,Amanda Calderon,vernonmaldonado@example.org,Books,174.87,1,2023-07-01,Credit Card,North Josephmouth
+bb3ddd8c-6dc3-40ab-9306-2c614165a466,Norman Sanders,clarkkeith@example.com,Health & Beauty,223.87,3,2024-09-13,PayPal,South Stephaniebury
+9688454d-98d1-4397-a277-6f9eda7b0760,Brandi Beard,rogermorales@example.com,Clothing,409.02,4,2024-12-06,PayPal,Martinezstad
+b034534e-d85b-4f46-af8e-871700f2a436,Michael Bowman,candicewest@example.org,Health & Beauty,46.97,4,2023-07-27,Cash on Delivery,Jacobmouth
+dde9ae96-7b38-4cd3-b7e3-9ea7538026cb,Andrew Myers,imoore@example.net,Electronics,36.88,4,2023-07-01,Bank Transfer,Brentfort
+2032ed4e-7fa8-4944-9287-ea3c75c478b7,Theresa Oconnell,jeffrey89@example.org,Electronics,269.21,1,2024-12-25,PayPal,Rodriguezburgh
+1f59e4f3-ac95-485d-bc1d-cdd8861dfdb0,Jennifer Bond,zvaldez@example.com,Electronics,195.67,1,2024-04-25,Bank Transfer,North Michaelton
+e199a105-fb4b-43a3-9550-7886f72443a0,Lauren Smith,greerrandall@example.com,Clothing,63.6,5,2023-05-29,Cash on Delivery,Martinezshire
+4addf406-005d-48ed-9cc5-d1eb9b6f3708,Ryan Mcconnell,gschmidt@example.net,Clothing,212.37,4,2024-07-26,Credit Card,Port Tammyfurt
+31c59d38-45bb-4090-baf9-783024245be9,Bobby Lee,rojascory@example.com,Clothing,232.12,4,2024-10-17,Bank Transfer,Brownfurt
+5f294777-8e9e-466a-8d29-b9dd04ae75f6,Tracey Adams,karenjimenez@example.com,Home & Kitchen,217.69,5,2024-06-30,Credit Card,West Davidberg
+b62e1106-6838-47db-bd59-3a32b8528417,Mary Valdez,abeard@example.com,Books,371.37,2,2023-12-06,Bank Transfer,Andrewburgh
+eafe455a-9c8f-4a1e-8f37-800f9cd18551,Sarah Hernandez,vreyes@example.net,Clothing,16.31,4,2025-01-09,Cash on Delivery,South Cody
+236d1ccf-06e8-4af6-986e-609ca9462577,Natalie Hamilton,qcook@example.org,Books,19.39,1,2024-11-08,Credit Card,New John
+ffa9d54e-7256-4e74-b8d3-9cce7540cb54,Michael Marshall,carolschroeder@example.net,Home & Kitchen,104.47,2,2023-12-09,PayPal,Stanleymouth
+16ff10c8-6d3f-44cb-8254-cb5d3ffbd02f,Shawn Jackson,macksarah@example.org,Books,424.24,1,2023-05-25,Bank Transfer,New Juliafort
+7f67e01e-138d-462d-a5b0-8aa66b62b241,William Mann,roger70@example.com,Health & Beauty,436.36,2,2024-12-24,Credit Card,East Jamesland
+100e5cc3-8c17-4149-845a-b4ac32cf1ba3,Tracey Johnson,coreymurillo@example.com,Health & Beauty,92.42,1,2023-12-05,Bank Transfer,Lake Stacyfurt
+aa9ca629-18a8-4a94-a71d-51b7ea1ce783,Paula Downs,samanthabentley@example.net,Electronics,135.55,4,2024-07-22,PayPal,Franciscoshire
+48de9a17-d599-4c0f-a72f-a2218d06e219,Stephen Nguyen,nicholaswatts@example.com,Health & Beauty,252.16,2,2024-06-13,Cash on Delivery,Huntview
+bb6a379d-479a-4b95-bdcf-6d02dc9ce2bb,Audrey Brown,jnichols@example.net,Clothing,48.6,2,2023-09-25,Credit Card,West Todd
+9944759b-54af-4127-bc1d-9462b825662d,Jamie Pope,michaeltran@example.org,Clothing,489.34,5,2024-05-24,Bank Transfer,Ericashire
+645cee50-8338-4a56-8d8a-4237a2dba717,Steve Beasley,shanebennett@example.com,Clothing,207.4,2,2024-09-14,Cash on Delivery,Susanbury
+7c5a1ca7-a370-4e9f-b7db-c7ff3d49abd2,Barry Rodriguez,bradley92@example.net,Electronics,44.48,3,2023-04-09,PayPal,East Randyhaven
+184acbb8-404d-461c-9729-057cb8ac3748,Brenda Mayo,julie01@example.org,Books,47.76,3,2023-04-30,PayPal,South Jenniferside
+581c1e7d-e564-4746-be9e-a4731f9715ed,Thomas Hoffman,xhopkins@example.net,Home & Kitchen,231.0,3,2024-05-08,Cash on Delivery,Sandersburgh
+6238778d-bf66-4262-a0db-51b5af0d369c,Elizabeth Smith,silvaisabel@example.com,Books,217.03,5,2023-12-07,Bank Transfer,Johnville
+38ec37d1-b289-40fe-a048-0b01592f5bf5,Sandra York,morgankristin@example.org,Home & Kitchen,346.97,2,2024-04-26,Credit Card,Joshuaport
+9d1125d8-d828-431c-8395-b5c19a4e3034,Michele Martinez,oconnorvictoria@example.net,Clothing,356.2,5,2023-12-19,Credit Card,Fleminghaven
+5a4a53bc-1989-4624-b845-8db42317a2f1,Mr. Phillip May Jr.,woodjessica@example.com,Home & Kitchen,126.76,1,2024-06-23,Cash on Delivery,Mitchellland
+ce4e47c3-967d-4cc3-abb4-31eaa15cf6f4,Vincent Perez,lindapotter@example.com,Home & Kitchen,138.93,2,2023-04-21,Credit Card,Jasonhaven
+8ce6fe3b-80a1-495f-8c37-5dca2a064aa7,Timothy Medina,donald86@example.com,Books,299.82,5,2023-09-15,PayPal,Johnbury
+4beed972-badb-4c75-8b2b-42d63890e7d8,Daniel Williams,nicholas68@example.com,Electronics,274.96,5,2024-03-03,PayPal,Diazland
+811711bb-ae27-48b7-b3a0-d6651b0bbb3b,Patricia Casey,michael32@example.com,Clothing,34.57,3,2023-03-22,PayPal,Lake Antonio
+ace97512-3085-499b-88b1-e9ef68b5f7e3,Janice Lane,vpeterson@example.net,Electronics,280.66,2,2023-08-06,PayPal,Brownview
+84816a79-3ba2-4c30-9457-cd90f05f9b86,Misty Torres,sandra28@example.org,Books,473.32,5,2024-07-25,PayPal,Aaronview
+2d2154de-322a-44ed-aa06-5e58d8453fee,Vickie Ross,anthony35@example.org,Home & Kitchen,448.97,1,2023-03-13,Cash on Delivery,South Marytown
+3eb1d9b4-1eb9-40f5-9903-236f6342a624,Sean Flores,donaldcameron@example.net,Books,410.89,4,2024-05-17,Cash on Delivery,New Natasha
+8d1b2ea3-a02c-44f6-b99a-c7b19bc334dc,Jennifer Sullivan,michaelhart@example.net,Books,443.48,4,2024-12-09,PayPal,Oscarmouth
+5b6485b3-f555-4811-8c00-755d77191015,Pamela Harvey,burtonrobin@example.net,Clothing,336.93,5,2024-08-14,Cash on Delivery,Michaelport
+00e2af1b-2752-4aac-a7d6-c167388ed7d7,Valerie Hammond,smithmarvin@example.net,Books,72.61,3,2023-10-04,PayPal,Williamsburgh
+f36b2bcf-b023-483b-b2f2-898b9c859fe6,Sabrina Guzman,nrice@example.org,Clothing,317.83,5,2023-12-05,Bank Transfer,Vasquezville
+e9853de2-8768-4d67-aaf2-4aeef7570365,Shane Vega,robinsonmatthew@example.org,Home & Kitchen,311.45,4,2024-12-31,Bank Transfer,Adamshaven
+41f7d168-ba1b-409b-987e-338d76031ab7,Rachel Lee,kchambers@example.com,Books,75.27,1,2023-07-13,Credit Card,East Courtney
+b9ae3782-5bd6-4a0f-94e9-7788364a9471,Bruce Padilla,michellevalentine@example.net,Books,225.1,4,2023-04-11,Bank Transfer,West Sandra
+cd193bda-dbca-4bb5-8bcc-a5ccaec823cd,John Williams,caroline32@example.org,Health & Beauty,385.84,2,2023-02-14,Cash on Delivery,Carrieburgh
+8338e327-bbc7-4663-912f-550e9a5456f1,Monica Chavez,elizabeth55@example.com,Home & Kitchen,19.15,5,2024-02-09,Bank Transfer,New Alexandra
+1f21b48f-3824-43f1-a26b-eb8bd4554564,Elizabeth Phillips,tamaranewman@example.org,Electronics,382.27,3,2023-12-16,PayPal,Bradymouth
+d327db5c-f4b2-48c6-9c56-d5bdc6cc27ac,Mr. David Lara,nicolelee@example.net,Home & Kitchen,473.74,4,2024-12-19,PayPal,Jamesberg
+5eaabbbd-ff83-4020-bbfb-78f15488d789,Nancy Peterson,adrian26@example.org,Home & Kitchen,250.57,5,2024-06-30,Credit Card,Petersonside
+d80e9ed6-c4ab-4e40-8ebc-11dbf06be7dd,Mr. Daniel Palmer,kristincarey@example.org,Electronics,446.73,1,2024-03-28,Bank Transfer,Trevinotown
+e9188792-06df-430c-aa6c-c3940829b1dd,Kelly Jones,mbutler@example.org,Books,490.75,5,2023-04-26,Credit Card,East Megan
+37a12564-de2e-4930-8f97-6c2298ccb998,Benjamin Blankenship,hannahryan@example.net,Clothing,390.37,2,2024-06-30,Bank Transfer,Brittneybury
+a7876b9a-3b8a-40b3-925a-79e964abac97,Catherine Kennedy,allennatalie@example.net,Clothing,21.71,5,2023-12-17,Bank Transfer,South Christystad
+82adaad6-11e8-4357-bcd2-1145aff7d6f9,Madeline Davis,flee@example.org,Health & Beauty,224.36,5,2023-11-03,Credit Card,Justinchester
+5c195129-a6e2-46d9-8ef5-2c6184550039,Taylor Davis,sawyerjulie@example.net,Health & Beauty,61.46,4,2023-04-20,PayPal,Fullertown
+f7adfc33-a4fc-43f1-841d-87927bb7a5f3,Katherine Walters,davidsonraven@example.net,Electronics,24.79,2,2023-09-08,Bank Transfer,Jasminestad
+31ee1410-4c5d-43fa-836b-ef334735d2f1,Nicholas Riley,sgonzales@example.org,Books,284.36,4,2023-07-08,Credit Card,Port Christopher
+62c23957-ebf1-4c61-9c01-54d961faca58,Katherine Diaz,paynegary@example.net,Home & Kitchen,51.75,3,2024-07-10,Bank Transfer,East Sandrachester
+f1ceff4c-6384-4aca-9d0c-fa85b5276bce,Willie Roberson,kpowell@example.net,Electronics,200.05,3,2024-04-30,Cash on Delivery,Watersmouth
+66dd926e-d3e7-4a92-9050-5c2621571f0c,Nicole Martinez,wilsongabrielle@example.com,Books,133.83,3,2023-03-31,Cash on Delivery,New Danaville
+d3de37bc-d97f-472a-8eb7-777ee9cdf41f,Sherri Juarez,lopezalyssa@example.net,Books,95.49,4,2023-06-09,PayPal,North Kristenchester
+0cadfb13-29b1-4c2e-ba5f-47d7f4cff21b,Yvette Miller,hamiltonantonio@example.com,Books,242.39,5,2024-03-27,Bank Transfer,West Shaunmouth
+17f93aaa-924d-49e2-8d7c-90bb24870a66,Bradley Anderson,ashley91@example.org,Books,350.89,5,2024-04-24,Bank Transfer,South Kim
+594824fa-e96b-41a2-bb40-c6a2790b4ec9,Timothy Buchanan,bankstracy@example.com,Electronics,465.84,3,2024-11-22,Cash on Delivery,West Jennifer
+9e937dab-dddd-4ad7-8819-4ca49e8ba3b9,Albert Greene,fallen@example.org,Electronics,13.52,3,2024-06-05,Cash on Delivery,Port Leslieshire
+c96a37aa-470c-4fda-899b-61e4e8fde0d8,Micheal Anderson,lynn94@example.org,Electronics,394.76,4,2024-10-26,Bank Transfer,Jenniferside
+d63bfbdc-6f0d-43d2-a8e2-bf8fe7870b2d,Melissa Garrett,levimacias@example.net,Clothing,132.23,3,2023-09-06,Bank Transfer,Fordside
+ac15f1ec-7325-4c51-846d-c00442b7a8e4,Shawn Newman,ppruitt@example.net,Home & Kitchen,465.89,4,2024-11-21,Credit Card,Wilsontown
+e40db67a-5c3c-483f-8c72-9d0c46bea4d7,Jonathan Olsen,nathan50@example.org,Clothing,454.66,2,2023-12-26,Bank Transfer,Williamschester
+2ae68420-05bb-4866-8c26-cb3b1e61b9da,Bryan Henderson,randallkim@example.org,Health & Beauty,229.79,1,2023-03-01,PayPal,Jensenhaven
+fba3b7f5-ea63-4bdd-b2d3-7d5401089532,Rebecca Nelson,charlenewagner@example.com,Health & Beauty,448.27,1,2024-02-24,Cash on Delivery,Taylorberg
+0203eeab-748f-48f7-a031-4449033f9fca,Patty Moore,edwardtorres@example.org,Health & Beauty,297.27,1,2023-02-08,Bank Transfer,Sandraborough
+f462822a-9279-4faa-9bf8-3967cd732323,Charles Ford,nancy86@example.org,Health & Beauty,145.08,4,2023-09-29,Cash on Delivery,Lisaborough
+dbfa2625-d750-4ae7-ba28-ca3635d66db1,Fernando Young,thomaslaura@example.net,Home & Kitchen,486.32,2,2024-01-27,Bank Transfer,East Sandra
+10287a5f-a23b-4508-8a58-ff14f47f5d79,Lori Kim,nbeltran@example.com,Clothing,344.04,1,2023-04-14,Bank Transfer,Thompsonchester
+d1fcaa50-2626-46e4-a81f-be659b70712c,Kelly Hood,hmccann@example.net,Clothing,328.98,4,2024-05-16,Credit Card,South Joseph
+58f956f8-5392-4f14-974a-d947aa409294,Timothy Lopez,joylynch@example.org,Clothing,156.77,2,2024-04-09,Credit Card,Gilbertton
+57f90ebf-29fc-403f-b1bc-7d921938b096,Frederick Thomas,xsimmons@example.net,Health & Beauty,223.05,4,2024-04-21,Cash on Delivery,Ericmouth
+b9d88ec8-d4c5-4db2-9496-7fdc445142e1,John Curtis,chavezjuan@example.net,Home & Kitchen,352.18,2,2023-01-29,Bank Transfer,South William
+87613177-8dfd-4de9-8ec9-fa8fdafcd5c9,Justin Jones,robert73@example.org,Books,362.47,1,2023-05-24,Cash on Delivery,South Susanstad
+95b1ee58-6528-4b77-9594-f8fbcb7a2cce,James Olson,phughes@example.net,Health & Beauty,277.69,1,2024-03-13,Bank Transfer,Fishermouth
+38a0952f-a563-47b7-abd7-363b6295578f,Kimberly Castro,adamsjason@example.com,Clothing,428.04,1,2024-12-04,PayPal,Floresside
+75ba2b0d-962e-4eb8-bc72-034f9aadceed,Heather Richards,nbaker@example.org,Clothing,63.52,3,2024-09-28,Cash on Delivery,Mcbrideside
+7fda2742-27e4-4f3f-afab-2583b11db179,Sandra Watkins,timothy65@example.org,Electronics,400.18,2,2023-08-26,Bank Transfer,Tylerberg
+e822d9e6-5649-4bb0-b97c-bd15ec7b66f4,Jordan Massey,bradleycooper@example.com,Electronics,31.75,5,2023-02-03,Credit Card,New Ryan
+153a24ff-5a05-4658-8dc8-ae4c09a37813,Elizabeth Parker,fgarcia@example.net,Electronics,226.3,4,2024-01-16,Credit Card,Port Marthaport
+70312b6c-f9da-456b-a579-45642e7a693a,Riley Bradley,dwilliams@example.org,Books,147.95,4,2023-10-28,PayPal,New Jasonstad
+082bde12-5385-40af-b0c6-054c628e3d24,Rebecca Phillips,richardsonvicki@example.net,Health & Beauty,183.51,5,2023-12-06,Cash on Delivery,Angelaton
+de0a0112-8b18-441b-bf65-e9e2014c68c5,Cindy Singh,imejia@example.org,Electronics,336.59,2,2023-10-31,PayPal,West Shawn
+09c4945a-1a8a-4bd2-8275-9546a80b2586,Hannah Spence,april07@example.com,Health & Beauty,432.33,3,2023-02-22,Credit Card,Yatesside
+dfa809d8-cc4f-4291-b2ba-fed2ff827c02,Lacey Mendoza,tinaskinner@example.org,Clothing,435.67,3,2023-01-30,Cash on Delivery,Lake Jessicafort
+c39b78dc-13c2-4e80-926c-c11f31452152,Shannon Medina,jonathan92@example.org,Books,374.64,3,2024-10-01,Cash on Delivery,Port Ellenbury
+0ebf1a55-cc55-4795-b3d1-bfd4e921ee04,Nicole Reese,zhughes@example.org,Clothing,14.37,3,2023-04-03,Credit Card,Johnsonbury
+5fc3800c-d1c7-4c3f-81d2-691aa94f61eb,Matthew Smith,kelsey46@example.net,Books,379.42,2,2023-11-09,Cash on Delivery,Lake Kimberly
+30a1c7ec-5820-4197-8fa1-8e5bfc994f10,Wesley Fuller,velezmargaret@example.com,Books,202.84,1,2024-11-09,Cash on Delivery,Farmerbury
+7624f53c-0adc-4f89-ad21-49e2fdfea977,Robert Vaughn,tclark@example.com,Clothing,471.84,5,2024-05-22,Credit Card,Murphymouth
+64d561a6-72b9-4a8b-bef2-ee5501a2549e,John Horne,pattersonkenneth@example.net,Clothing,379.79,2,2023-11-03,Credit Card,Costahaven
+a28cfbc1-5cda-4b59-b3a0-7bff8444a6b8,Lisa Rojas,sanchezyolanda@example.net,Clothing,239.45,3,2024-10-25,Cash on Delivery,Matthewburgh
+1c0cbe1d-e4ad-409a-bb84-a48246104c53,Christie Collins,sarahroach@example.org,Books,327.87,2,2023-06-07,Bank Transfer,Lake Stephen
+79adeb71-f899-4325-b842-f36f67d3be97,Julie Young,peggyespinoza@example.com,Home & Kitchen,254.25,3,2024-04-20,Cash on Delivery,North Phillipfort
+43f1dbe6-41e5-40e6-a6d2-41417dc2d843,Katherine Harvey,ssnyder@example.com,Home & Kitchen,434.42,3,2024-12-12,Cash on Delivery,North Jessicamouth
+17fc963f-4cf6-427d-8500-f9febde7542f,Jillian Washington,vanessa91@example.org,Clothing,479.19,3,2023-11-02,PayPal,New Christy
+faa7d0cb-b1fc-4895-9a96-ba020b5906b4,Daniel Gibson,lmarsh@example.com,Health & Beauty,104.68,5,2024-09-14,Bank Transfer,North Charlesberg
+8988ddcb-9b8d-4b5e-bf4d-8f28c2534e95,William Williams,alecmcgee@example.net,Clothing,259.96,5,2024-08-12,Credit Card,Lake Mary
+84ec3753-ab01-463e-b9e0-5b3bf90b9771,Kevin Bonilla,bernardpatrick@example.net,Electronics,213.47,2,2024-04-22,PayPal,North Andrewmouth
+f3029b91-43e2-42e4-8e34-e1f51e6d5480,Danny Cruz,ohernandez@example.com,Electronics,448.91,1,2024-10-19,PayPal,South Joel
